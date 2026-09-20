@@ -8,56 +8,92 @@
 
 QUIZZES = {
 
-    "Slender Man": [
+    "Efeitos Afrodisíacos da Ostra": [
         {
-            "pergunta": "Em qual ambiente o Slender Man costuma aparecer na maioria das histórias?",
-            "alternativas": ["Florestas e áreas isoladas", "Praias movimentadas", "Centros comerciais"],
+            "pergunta": "Qual mineral encontrado em grande quantidade nas ostras está ligado à função reprodutiva?",
+            "alternativas": [
+                "Zinco",
+                "Sódio",
+                "Cálcio"
+            ],
             "correta": 0,
         },
         {
-            "pergunta": "Qual característica física é mais associada ao Slender Man?",
-            "alternativas": ["Olhos vermelhos brilhantes", "Rosto sem traços definidos", "Corpo coberto de pelos"],
+            "pergunta": "É cientificamente comprovado que comer ostras aumenta imediatamente o desejo sexual?",
+            "alternativas": [
+                "Sim, em qualquer pessoa",
+                "Não, as evidências são limitadas",
+                "Somente quando consumidas cruas"
+            ],
             "correta": 1,
         },
         {
-            "pergunta": "O Slender Man surgiu originalmente em qual contexto?",
-            "alternativas": ["Em uma lenda medieval", "Em relatos de rádio antigos", "Na internet"],
+            "pergunta": "Por que as ostras ficaram famosas como alimento afrodisíaco?",
+            "alternativas": [
+                "Apenas pela temperatura do alimento",
+                "Porque possuem cafeína natural",
+                "Por tradição cultural e associação histórica"
+            ],
             "correta": 2,
         },
     ],
 
-    "Mothman": [
+    "Eleições 2026": [
         {
-            "pergunta": "Em qual localidade o Mothman ficou mais famoso?",
-            "alternativas": ["Point Pleasant", "Salem", "Roswell"],
+            "pergunta": "Até qual data foi possível solicitar ou regularizar o título para votar nas Eleições 2026?",
+            "alternativas": [
+                "6 de maio",
+                "6 de junho",
+                "6 de setembro"
+            ],
             "correta": 0,
         },
         {
-            "pergunta": "Qual detalhe costuma ser citado nas descrições do Mothman?",
-            "alternativas": ["Cauda longa", "Olhos vermelhos", "Pele azul"],
+            "pergunta": "Em qual horário acontece a votação das Eleições 2026 pelo horário de Brasília?",
+            "alternativas": [
+                "Das 7h às 16h",
+                "Das 8h às 17h",
+                "Das 9h às 18h"
+            ],
             "correta": 1,
         },
         {
-            "pergunta": "O Mothman é mais lembrado como uma criatura ligada a quê?",
-            "alternativas": ["Tesouros escondidos", "Plantações encantadas", "Mistérios e presságios"],
+            "pergunta": "Qual cargo aparece primeiro na ordem de votação da urna em 2026?",
+            "alternativas": [
+                "Presidente",
+                "Senador",
+                "Deputado federal"
+            ],
             "correta": 2,
         },
     ],
 
-    "Bicho-Papão": [
+    "Curiosidades sobre a Tapioca": [
         {
-            "pergunta": "O Bicho-Papão é mais conhecido por aparecer em qual tipo de história?",
-            "alternativas": ["Lendas usadas para assustar crianças", "Relatos de viagens marítimas", "Contos sobre reis antigos"],
+            "pergunta": "A tapioca é preparada principalmente a partir de qual alimento?",
+            "alternativas": [
+                "Mandioca",
+                "Milho",
+                "Trigo"
+            ],
             "correta": 0,
         },
         {
-            "pergunta": "Qual característica torna o Bicho-Papão diferente em cada versão da lenda?",
-            "alternativas": ["Sempre vive no mar", "Sua aparência muda conforme a cultura", "Usa sempre a mesma roupa"],
+            "pergunta": "Qual substância é naturalmente ausente na tapioca pura?",
+            "alternativas": [
+                "Amido",
+                "Glúten",
+                "Carboidrato"
+            ],
             "correta": 1,
         },
         {
-            "pergunta": "O Bicho-Papão costuma representar principalmente o quê?",
-            "alternativas": ["Sorte inesperada", "Heroísmo", "Medos infantis"],
+            "pergunta": "Qual povo teve papel importante na origem do consumo da mandioca no Brasil?",
+            "alternativas": [
+                "Romanos",
+                "Vikings",
+                "Povos indígenas"
+            ],
             "correta": 2,
         },
     ],
