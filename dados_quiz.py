@@ -8,57 +8,93 @@
 
 QUIZZES = {
 
-    "Lobisomem": [
+    "Lula e Flávio Bolsonaro": [
         {
-            "pergunta": "Em muitas lendas, em qual fase da lua o lobisomem costuma se transformar?",
-            "alternativas": ["Lua cheia", "Lua nova", "Lua minguante"],
+            "pergunta": "Quem exerce a Presidência da República em 2026?",
+            "alternativas": [
+                "Lula",
+                "Flávio Bolsonaro",
+                "Nenhum dos dois"
+            ],
             "correta": 0,
         },
         {
-            "pergunta": "O lobisomem é uma criatura metade homem e metade o quê?",
-            "alternativas": ["Urso", "Lobo", "Cavalo"],
+            "pergunta": "Flávio Bolsonaro exerce mandato de senador por qual estado?",
+            "alternativas": [
+                "São Paulo",
+                "Rio de Janeiro",
+                "Minas Gerais"
+            ],
             "correta": 1,
         },
         {
-            "pergunta": "O lobisomem faz parte principalmente de qual tipo de narrativa?",
-            "alternativas": ["Receitas populares", "Lendas e folclore", "Notícias esportivas"],
-            "correta": 1,
+            "pergunta": "Qual dos dois nasceu no estado de Pernambuco?",
+            "alternativas": [
+                "Flávio Bolsonaro",
+                "Os dois",
+                "Lula"
+            ],
+            "correta": 2,
         },
     ],
 
-    "Loira do Banheiro": [
+    "Ana e Renê - A Fazenda 18": [
         {
-            "pergunta": "A Loira do Banheiro é conhecida como qual tipo de personagem?",
-            "alternativas": ["Heroína histórica", "Lenda urbana", "Cantora famosa"],
+            "pergunta": "Qual é o nome completo de Ana, do casal com Renê?",
+            "alternativas": [
+                "Ana Bruna Ávila",
+                "Ana Paula Almeida",
+                "Ana Clara Reis"
+            ],
+            "correta": 0,
+        },
+        {
+            "pergunta": "Em qual festa começou o romance entre Ana e Renê?",
+            "alternativas": [
+                "Festa Neon",
+                "Festa Fundo do Mar",
+                "Festa Country"
+            ],
             "correta": 1,
         },
         {
-            "pergunta": "Em qual lugar essa lenda costuma acontecer?",
-            "alternativas": ["Banheiro de escola", "Praia deserta", "Campo de futebol"],
-            "correta": 0,
-        },
-        {
-            "pergunta": "A lenda da Loira do Banheiro é muito conhecida principalmente em qual país?",
-            "alternativas": ["Brasil", "Canadá", "Japão"],
-            "correta": 0,
+            "pergunta": "Ana e Renê se tornaram qual casal de A Fazenda 18?",
+            "alternativas": [
+                "O terceiro casal",
+                "O segundo casal",
+                "O primeiro casal"
+            ],
+            "correta": 2,
         },
     ],
 
-    "Boi da Cara Preta": [
+    "Churros": [
         {
-            "pergunta": "O Boi da Cara Preta é mais conhecido por aparecer em quê?",
-            "alternativas": ["Cantiga popular", "Filme de ação", "Programa de auditório"],
+            "pergunta": "Qual é a forma de preparo tradicional da massa do churros?",
+            "alternativas": [
+                "Frita",
+                "Cozida no vapor",
+                "Assada na brasa"
+            ],
             "correta": 0,
         },
         {
-            "pergunta": "Na cantiga, o Boi da Cara Preta é citado para assustar quem?",
-            "alternativas": ["O fazendeiro", "A criança que não quer dormir", "O vendedor da feira"],
+            "pergunta": "Qual especiaria costuma acompanhar o açúcar no churros?",
+            "alternativas": [
+                "Páprica",
+                "Canela",
+                "Orégano"
+            ],
             "correta": 1,
         },
         {
-            "pergunta": "O Boi da Cara Preta faz parte de qual tradição cultural?",
-            "alternativas": ["Folclore e cultura popular", "Ciência moderna", "Matemática básica"],
-            "correta": 0,
+            "pergunta": "Qual recheio é muito comum em churros no Brasil?",
+            "alternativas": [
+                "Mostarda",
+                "Queijo",
+                "Doce de leite"
+            ],
+            "correta": 2,
         },
     ],
 
