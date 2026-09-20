@@ -8,94 +8,58 @@
 
 QUIZZES = {
 
-    "Zeus": [
+    "Sinônimos": [
         {
-            "pergunta": "Na mitologia grega, Zeus era considerado deus de quê?",
-            "alternativas": [
-                "Céu e trovão",
-                "Mar e rios",
-                "Fogo e guerra"
-            ],
+            "pergunta": "Qual é um sinônimo de feliz?",
+            "alternativas": ["Alegre", "Triste", "Bravo"],
             "correta": 0,
         },
         {
-            "pergunta": "Qual objeto é mais associado a Zeus?",
-            "alternativas": [
-                "Tridente dourado",
-                "Raio",
-                "Arco mágico"
-            ],
+            "pergunta": "Qual é um sinônimo de rápido?",
+            "alternativas": ["Lento", "Veloz", "Fraco"],
             "correta": 1,
         },
         {
-            "pergunta": "Zeus vivia principalmente em qual lugar mítico?",
-            "alternativas": [
-                "Monte Olimpo",
-                "Monte Etna",
-                "Ilha de Creta"
-            ],
-            "correta": 0,
+            "pergunta": "Qual é um sinônimo de bonito?",
+            "alternativas": ["Feio", "Pequeno", "Belo"],
+            "correta": 2,
         },
     ],
 
-    "Hércules": [
+    "Tipos Sanguíneos": [
         {
-            "pergunta": "Hércules ficou famoso principalmente por realizar quantos trabalhos?",
-            "alternativas": [
-                "Dez trabalhos",
-                "Doze trabalhos",
-                "Quinze trabalhos"
-            ],
+            "pergunta": "Qual sistema classifica o sangue em A, B, AB e O?",
+            "alternativas": ["Sistema ABO", "Sistema Rh", "Sistema HLA"],
+            "correta": 0,
+        },
+        {
+            "pergunta": "Qual tipo sanguíneo possui antígenos A e B nas hemácias?",
+            "alternativas": ["Tipo O", "Tipo AB", "Tipo A"],
             "correta": 1,
         },
         {
-            "pergunta": "Qual animal Hércules enfrentou em um de seus trabalhos?",
-            "alternativas": [
-                "Leão de Nemeia",
-                "Lobo gigante",
-                "Touro alado"
-            ],
-            "correta": 0,
-        },
-        {
-            "pergunta": "Qual característica é mais associada a Hércules?",
-            "alternativas": [
-                "Grande força",
-                "Poder do gelo",
-                "Voo mágico"
-            ],
+            "pergunta": "Qual fator pode tornar um tipo sanguíneo positivo ou negativo?",
+            "alternativas": ["Fator Rh", "Fator ABO", "Fator HLA"],
             "correta": 0,
         },
     ],
 
-    "Emília": [
+    "História do Brasil": [
         {
-            "pergunta": "Emília é uma personagem de qual obra brasileira?",
-            "alternativas": [
-                "Sítio do Picapau",
-                "Turma da Mônica",
-                "Menino Maluquinho"
-            ],
+            "pergunta": "Em que ano ocorreu a Independência do Brasil?",
+            "alternativas": ["1822", "1889", "1500"],
             "correta": 0,
         },
         {
-            "pergunta": "Emília é originalmente o quê?",
-            "alternativas": [
-                "Boneca de pano",
-                "Fada encantada",
-                "Menina humana"
-            ],
+            "pergunta": "Quem proclamou a Independência do Brasil?",
+            "alternativas": ["Dom Pedro I", "Dom Pedro II", "Tiradentes"],
             "correta": 0,
         },
         {
-            "pergunta": "Quem é o autor ligado à criação de Emília?",
-            "alternativas": [
-                "Monteiro Lobato",
-                "Machado de Assis",
-                "José de Alencar"
-            ],
-            "correta": 0,
+            "pergunta": "Em que ano foi proclamada a República no Brasil?",
+            "alternativas": ["1808", "1889", "1822"],
+            "correta": 1,
         },
     ],
 
-}
+}            
