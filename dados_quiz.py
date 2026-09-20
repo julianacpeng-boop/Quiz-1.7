@@ -8,93 +8,93 @@
 
 QUIZZES = {
 
-    "Noé e a Arca": [
+    "Zeus": [
         {
-            "pergunta": "Segundo a história bíblica, por que Noé construiu a arca?",
+            "pergunta": "Na mitologia grega, Zeus era considerado deus de quê?",
             "alternativas": [
-                "Para sobreviver ao dilúvio",
-                "Para atravessar o Mar Vermelho",
-                "Para procurar uma nova cidade"
+                "Céu e trovão",
+                "Mar e rios",
+                "Fogo e guerra"
             ],
             "correta": 0,
         },
         {
-            "pergunta": "Qual ave voltou para Noé trazendo uma folha de oliveira?",
+            "pergunta": "Qual objeto é mais associado a Zeus?",
             "alternativas": [
-                "Corvo",
-                "Pomba",
-                "Águia"
+                "Tridente dourado",
+                "Raio",
+                "Arco mágico"
             ],
             "correta": 1,
         },
         {
-            "pergunta": "Qual sinal é associado à aliança de Deus após o dilúvio?",
+            "pergunta": "Zeus vivia principalmente em qual lugar mítico?",
             "alternativas": [
-                "Uma estrela",
-                "Uma coluna de fogo",
-                "Arco-íris"
+                "Monte Olimpo",
+                "Monte Etna",
+                "Ilha de Creta"
             ],
-            "correta": 2,
+            "correta": 0,
         },
     ],
 
-    "Cleópatra": [
+    "Hércules": [
         {
-            "pergunta": "Cleópatra VII foi rainha de qual antigo reino?",
+            "pergunta": "Hércules ficou famoso principalmente por realizar quantos trabalhos?",
             "alternativas": [
-                "Egito",
-                "Grécia",
-                "Pérsia"
-            ],
-            "correta": 0,
-        },
-        {
-            "pergunta": "Cleópatra pertencia a qual dinastia?",
-            "alternativas": [
-                "Dinastia Júlio-Claudiana",
-                "Dinastia Ptolemaica",
-                "Dinastia Aquemênida"
+                "Dez trabalhos",
+                "Doze trabalhos",
+                "Quinze trabalhos"
             ],
             "correta": 1,
         },
         {
-            "pergunta": "Qual general romano formou uma famosa aliança com Cleópatra?",
+            "pergunta": "Qual animal Hércules enfrentou em um de seus trabalhos?",
             "alternativas": [
-                "Augusto",
-                "Pompeu",
-                "Marco Antônio"
+                "Leão de Nemeia",
+                "Lobo gigante",
+                "Touro alado"
             ],
-            "correta": 2,
+            "correta": 0,
+        },
+        {
+            "pergunta": "Qual característica é mais associada a Hércules?",
+            "alternativas": [
+                "Grande força",
+                "Poder do gelo",
+                "Voo mágico"
+            ],
+            "correta": 0,
         },
     ],
 
-    "Curiosidades sobre Futebol": [
+    "Emília": [
         {
-            "pergunta": "Em qual país aconteceu a primeira Copa do Mundo masculina, em 1930?",
+            "pergunta": "Emília é uma personagem de qual obra brasileira?",
             "alternativas": [
-                "Uruguai",
-                "Brasil",
-                "Argentina"
+                "Sítio do Picapau",
+                "Turma da Mônica",
+                "Menino Maluquinho"
             ],
             "correta": 0,
         },
         {
-            "pergunta": "A marca do pênalti fica aproximadamente a quantos metros do gol?",
+            "pergunta": "Emília é originalmente o quê?",
             "alternativas": [
-                "9 metros",
-                "11 metros",
-                "13 metros"
+                "Boneca de pano",
+                "Fada encantada",
+                "Menina humana"
             ],
-            "correta": 1,
+            "correta": 0,
         },
         {
-            "pergunta": "No futebol, o que significa um jogador fazer um hat-trick?",
+            "pergunta": "Quem é o autor ligado à criação de Emília?",
             "alternativas": [
-                "Dar três assistências",
-                "Defender três pênaltis",
-                "Marcar três gols"
+                "Monteiro Lobato",
+                "Machado de Assis",
+                "José de Alencar"
             ],
-            "correta": 2,
+            "correta": 0,
         },
     ],
 
