@@ -8,91 +8,91 @@
 
 QUIZZES = {
 
-    "Efeitos Afrodisíacos da Ostra": [
+    "Noé e a Arca": [
         {
-            "pergunta": "Qual mineral encontrado em grande quantidade nas ostras está ligado à função reprodutiva?",
+            "pergunta": "Segundo a história bíblica, por que Noé construiu a arca?",
             "alternativas": [
-                "Zinco",
-                "Sódio",
-                "Cálcio"
+                "Para sobreviver ao dilúvio",
+                "Para atravessar o Mar Vermelho",
+                "Para procurar uma nova cidade"
             ],
             "correta": 0,
         },
         {
-            "pergunta": "É cientificamente comprovado que comer ostras aumenta imediatamente o desejo sexual?",
+            "pergunta": "Qual ave voltou para Noé trazendo uma folha de oliveira?",
             "alternativas": [
-                "Sim, em qualquer pessoa",
-                "Não, as evidências são limitadas",
-                "Somente quando consumidas cruas"
+                "Corvo",
+                "Pomba",
+                "Águia"
             ],
             "correta": 1,
         },
         {
-            "pergunta": "Por que as ostras ficaram famosas como alimento afrodisíaco?",
+            "pergunta": "Qual sinal é associado à aliança de Deus após o dilúvio?",
             "alternativas": [
-                "Apenas pela temperatura do alimento",
-                "Porque possuem cafeína natural",
-                "Por tradição cultural e associação histórica"
+                "Uma estrela",
+                "Uma coluna de fogo",
+                "Arco-íris"
             ],
             "correta": 2,
         },
     ],
 
-    "Eleições 2026": [
+    "Cleópatra": [
         {
-            "pergunta": "Até qual data foi possível solicitar ou regularizar o título para votar nas Eleições 2026?",
+            "pergunta": "Cleópatra VII foi rainha de qual antigo reino?",
             "alternativas": [
-                "6 de maio",
-                "6 de junho",
-                "6 de setembro"
+                "Egito",
+                "Grécia",
+                "Pérsia"
             ],
             "correta": 0,
         },
         {
-            "pergunta": "Em qual horário acontece a votação das Eleições 2026 pelo horário de Brasília?",
+            "pergunta": "Cleópatra pertencia a qual dinastia?",
             "alternativas": [
-                "Das 7h às 16h",
-                "Das 8h às 17h",
-                "Das 9h às 18h"
+                "Dinastia Júlio-Claudiana",
+                "Dinastia Ptolemaica",
+                "Dinastia Aquemênida"
             ],
             "correta": 1,
         },
         {
-            "pergunta": "Qual cargo aparece primeiro na ordem de votação da urna em 2026?",
+            "pergunta": "Qual general romano formou uma famosa aliança com Cleópatra?",
             "alternativas": [
-                "Presidente",
-                "Senador",
-                "Deputado federal"
+                "Augusto",
+                "Pompeu",
+                "Marco Antônio"
             ],
             "correta": 2,
         },
     ],
 
-    "Curiosidades sobre a Tapioca": [
+    "Curiosidades sobre Futebol": [
         {
-            "pergunta": "A tapioca é preparada principalmente a partir de qual alimento?",
+            "pergunta": "Em qual país aconteceu a primeira Copa do Mundo masculina, em 1930?",
             "alternativas": [
-                "Mandioca",
-                "Milho",
-                "Trigo"
+                "Uruguai",
+                "Brasil",
+                "Argentina"
             ],
             "correta": 0,
         },
         {
-            "pergunta": "Qual substância é naturalmente ausente na tapioca pura?",
+            "pergunta": "A marca do pênalti fica aproximadamente a quantos metros do gol?",
             "alternativas": [
-                "Amido",
-                "Glúten",
-                "Carboidrato"
+                "9 metros",
+                "11 metros",
+                "13 metros"
             ],
             "correta": 1,
         },
         {
-            "pergunta": "Qual povo teve papel importante na origem do consumo da mandioca no Brasil?",
+            "pergunta": "No futebol, o que significa um jogador fazer um hat-trick?",
             "alternativas": [
-                "Romanos",
-                "Vikings",
-                "Povos indígenas"
+                "Dar três assistências",
+                "Defender três pênaltis",
+                "Marcar três gols"
             ],
             "correta": 2,
         },
