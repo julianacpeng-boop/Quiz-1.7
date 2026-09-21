@@ -8,58 +8,58 @@
 
 QUIZZES = {
 
-    "Sinônimos": [
+    "Circo": [
         {
-            "pergunta": "Qual é um sinônimo de feliz?",
-            "alternativas": ["Alegre", "Triste", "Bravo"],
+            "pergunta": "Qual profissional realiza números de equilíbrio em grandes alturas?",
+            "alternativas": ["Equilibrista", "Palhaço", "Mágico"],
             "correta": 0,
         },
         {
-            "pergunta": "Qual é um sinônimo de rápido?",
-            "alternativas": ["Lento", "Veloz", "Fraco"],
+            "pergunta": "Como é chamada a grande tenda onde acontecem os espetáculos circenses?",
+            "alternativas": ["Picadeiro", "Lona", "Arena"],
             "correta": 1,
         },
         {
-            "pergunta": "Qual é um sinônimo de bonito?",
-            "alternativas": ["Feio", "Pequeno", "Belo"],
+            "pergunta": "Qual artista é conhecido por fazer truques e ilusões?",
+            "alternativas": ["Malabarista", "Acrobata", "Mágico"],
             "correta": 2,
         },
     ],
 
-    "Tipos Sanguíneos": [
+    "Igreja": [
         {
-            "pergunta": "Qual sistema classifica o sangue em A, B, AB e O?",
-            "alternativas": ["Sistema ABO", "Sistema Rh", "Sistema HLA"],
+            "pergunta": "Como é chamado o espaço principal onde os fiéis se reúnem em muitas igrejas?",
+            "alternativas": ["Nave", "Sacristia", "Torre"],
             "correta": 0,
         },
         {
-            "pergunta": "Qual tipo sanguíneo possui antígenos A e B nas hemácias?",
-            "alternativas": ["Tipo O", "Tipo AB", "Tipo A"],
+            "pergunta": "Qual elemento arquitetônico costuma abrigar sinos?",
+            "alternativas": ["Altar", "Campanário", "Púlpito"],
             "correta": 1,
         },
         {
-            "pergunta": "Qual fator pode tornar um tipo sanguíneo positivo ou negativo?",
-            "alternativas": ["Fator Rh", "Fator ABO", "Fator HLA"],
-            "correta": 0,
+            "pergunta": "Como é chamado o local elevado usado para pregação em muitas igrejas?",
+            "alternativas": ["Claustro", "Nave", "Púlpito"],
+            "correta": 2,
         },
     ],
 
-    "História do Brasil": [
+    "Caverna": [
         {
-            "pergunta": "Em que ano ocorreu a Independência do Brasil?",
-            "alternativas": ["1822", "1889", "1500"],
+            "pergunta": "Como se chama a formação que cresce do teto de uma caverna?",
+            "alternativas": ["Estalactite", "Estalagmite", "Cristal"],
             "correta": 0,
         },
         {
-            "pergunta": "Quem proclamou a Independência do Brasil?",
-            "alternativas": ["Dom Pedro I", "Dom Pedro II", "Tiradentes"],
-            "correta": 0,
-        },
-        {
-            "pergunta": "Em que ano foi proclamada a República no Brasil?",
-            "alternativas": ["1808", "1889", "1822"],
+            "pergunta": "Qual formação cresce do chão em direção ao teto?",
+            "alternativas": ["Estalactite", "Estalagmite", "Fóssil"],
             "correta": 1,
         },
+        {
+            "pergunta": "Qual ciência estuda cavernas e ambientes subterrâneos?",
+            "alternativas": ["Geografia", "Arqueologia", "Espeleologia"],
+            "correta": 2,
+        },
     ],
 
-}            
+}
