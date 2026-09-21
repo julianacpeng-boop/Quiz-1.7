@@ -8,57 +8,111 @@
 
 QUIZZES = {
 
-    "Gatos": [
+    "Sereias": [
         {
-            "pergunta": "Qual estrutura ajuda o gato a perceber objetos e espaços muito próximos do rosto?",
-            "alternativas": ["Bigodes", "Caninos", "Pupilas"],
+            "pergunta": "Nas histórias da Grécia Antiga, as primeiras sereias eram retratadas com características de qual animal?",
+            "alternativas": ["Ave", "Peixe", "Cavalo"],
             "correta": 0,
         },
         {
-            "pergunta": "Por que os gatos conseguem enxergar relativamente bem com pouca luz?",
-            "alternativas": ["Retina adaptada", "Olhos maiores", "Visão térmica"],
-            "correta": 0,
-        },
-        {
-            "pergunta": "Quando um gato ronrona, isso pode acontecer apenas quando ele está feliz?",
-            "alternativas": ["Sim, sempre", "Não, pode variar", "Só quando dorme"],
+            "pergunta": "Qual animal marinho pode ter inspirado alguns antigos relatos de sereias?",
+            "alternativas": ["Tubarão", "Peixe-boi", "Polvo"],
             "correta": 1,
+        },
+        {
+            "pergunta": "Nas lendas antigas, qual característica das sereias atraía os navegadores?",
+            "alternativas": ["Olhos brilhantes", "Cauda dourada", "Canto encantador"],
+            "correta": 2,
         },
     ],
 
-    "Cachorros": [
+    "Fantasmas": [
         {
-            "pergunta": "Qual sentido costuma ser especialmente desenvolvido nos cães?",
-            "alternativas": ["Olfato", "Paladar", "Visão de cores"],
+            "pergunta": "Como é chamado, no folclore paranormal, o fenômeno associado a objetos que se movem ou fazem barulho?",
+            "alternativas": ["Poltergeist", "Oráculo", "Doppelgänger"],
             "correta": 0,
         },
         {
-            "pergunta": "Por que alguns cães ofegam após esforço ou em dias quentes?",
-            "alternativas": ["Para regular calor", "Para aumentar força", "Para dormir melhor"],
-            "correta": 0,
-        },
-        {
-            "pergunta": "O movimento da cauda de um cachorro significa sempre felicidade?",
-            "alternativas": ["Sim, sempre", "Não necessariamente", "Só em filhotes"],
+            "pergunta": "Qual palavra ficou famosa no espiritismo do século XIX para uma suposta substância produzida em sessões?",
+            "alternativas": ["Aura", "Ectoplasma", "Plasma"],
             "correta": 1,
+        },
+        {
+            "pergunta": "Em muitas tradições, fantasmas são associados principalmente a quê?",
+            "alternativas": ["Mudança climática", "Sorte financeira", "Mortos inquietos"],
+            "correta": 2,
         },
     ],
 
-    "Papagaios": [
+    "Casas Mal-Assombradas": [
         {
-            "pergunta": "Qual característica permite aos papagaios manipular alimentos com bastante habilidade?",
-            "alternativas": ["Pés zigodáctilos", "Asas longas", "Cauda rígida"],
+            "pergunta": "Qual estilo literário ajudou a popularizar histórias de mansões sombrias e assombradas?",
+            "alternativas": ["Gótico", "Realismo", "Futurismo"],
             "correta": 0,
         },
         {
-            "pergunta": "Papagaios conseguem reproduzir sons humanos principalmente graças a qual estrutura?",
-            "alternativas": ["Siringe", "Laringe dupla", "Bico flexível"],
-            "correta": 0,
-        },
-        {
-            "pergunta": "Muitos papagaios se destacam por qual característica comportamental?",
-            "alternativas": ["Vida solitária", "Inteligência social", "Sono contínuo"],
+            "pergunta": "Em relatos de casas assombradas, qual fenômeno é frequentemente associado a um poltergeist?",
+            "alternativas": ["Luzes solares", "Objetos movendo", "Flores crescendo"],
             "correta": 1,
+        },
+        {
+            "pergunta": "Qual elemento arquitetônico aparece com frequência em histórias clássicas de casas assombradas?",
+            "alternativas": ["Piscina olímpica", "Garagem aberta", "Corredores antigos"],
+            "correta": 2,
+        },
+    ],
+
+    "Leões": [
+        {
+            "pergunta": "Em um grupo de leões, quem realiza grande parte das caçadas cooperativas?",
+            "alternativas": ["Leoas", "Machos jovens", "Filhotes"],
+            "correta": 0,
+        },
+        {
+            "pergunta": "A juba de um leão macho pode ajudar a indicar principalmente o quê?",
+            "alternativas": ["Idade exata", "Condição física", "Velocidade máxima"],
+            "correta": 1,
+        },
+        {
+            "pergunta": "Um rugido de leão pode ser ouvido a vários quilômetros principalmente para quê?",
+            "alternativas": ["Atrair presas", "Localizar água", "Comunicar território"],
+            "correta": 2,
+        },
+    ],
+
+    "Macacos": [
+        {
+            "pergunta": "Qual grupo de macacos é conhecido por usar pedras como ferramentas para quebrar alimentos?",
+            "alternativas": ["Macacos-prego", "Babuínos", "Mandris"],
+            "correta": 0,
+        },
+        {
+            "pergunta": "Qual macaco ficou famoso por entrar em águas termais no Japão?",
+            "alternativas": ["Macaco-aranha", "Macaco-japonês", "Macaco-prego"],
+            "correta": 1,
+        },
+        {
+            "pergunta": "Qual característica ajuda alguns macacos-aranha a se movimentarem pelas árvores?",
+            "alternativas": ["Garras retráteis", "Asas membranosas", "Cauda preênsil"],
+            "correta": 2,
+        },
+    ],
+
+    "Hipopótamos": [
+        {
+            "pergunta": "Qual grupo de animais está entre os parentes vivos mais próximos dos hipopótamos?",
+            "alternativas": ["Cetáceos", "Rinocerontes", "Elefantes"],
+            "correta": 0,
+        },
+        {
+            "pergunta": "A secreção avermelhada da pele do hipopótamo ajuda principalmente em quê?",
+            "alternativas": ["Produzir veneno", "Proteger a pele", "Atrair parceiros"],
+            "correta": 1,
+        },
+        {
+            "pergunta": "Quando se desloca debaixo d'água, o hipopótamo costuma fazer o quê?",
+            "alternativas": ["Bater nadadeiras", "Flutuar parado", "Impulsionar no fundo"],
+            "correta": 2,
         },
     ],
 
