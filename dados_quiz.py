@@ -8,111 +8,111 @@
 
 QUIZZES = {
 
-    "Sereias": [
+    "Português": [
         {
-            "pergunta": "Nas histórias da Grécia Antiga, as primeiras sereias eram retratadas com características de qual animal?",
-            "alternativas": ["Ave", "Peixe", "Cavalo"],
+            "pergunta": "Qual destas palavras é um advérbio?",
+            "alternativas": ["Rapidamente", "Bonito", "Casa"],
             "correta": 0,
         },
         {
-            "pergunta": "Qual animal marinho pode ter inspirado alguns antigos relatos de sereias?",
-            "alternativas": ["Tubarão", "Peixe-boi", "Polvo"],
-            "correta": 1,
+            "pergunta": "Qual palavra apresenta encontro consonantal?",
+            "alternativas": ["Prato", "Saída", "Baú"],
+            "correta": 0,
         },
         {
-            "pergunta": "Nas lendas antigas, qual característica das sereias atraía os navegadores?",
-            "alternativas": ["Olhos brilhantes", "Cauda dourada", "Canto encantador"],
-            "correta": 2,
+            "pergunta": "Qual é o antônimo de escasso?",
+            "alternativas": ["Raro", "Abundante", "Pequeno"],
+            "correta": 1,
         },
     ],
 
-    "Fantasmas": [
+    "Matemática": [
         {
-            "pergunta": "Como é chamado, no folclore paranormal, o fenômeno associado a objetos que se movem ou fazem barulho?",
-            "alternativas": ["Poltergeist", "Oráculo", "Doppelgänger"],
-            "correta": 0,
-        },
-        {
-            "pergunta": "Qual palavra ficou famosa no espiritismo do século XIX para uma suposta substância produzida em sessões?",
-            "alternativas": ["Aura", "Ectoplasma", "Plasma"],
+            "pergunta": "Quanto é 25 por cento de 200?",
+            "alternativas": ["25", "50", "75"],
             "correta": 1,
         },
         {
-            "pergunta": "Em muitas tradições, fantasmas são associados principalmente a quê?",
-            "alternativas": ["Mudança climática", "Sorte financeira", "Mortos inquietos"],
-            "correta": 2,
+            "pergunta": "Qual é o resultado de 7 ao quadrado?",
+            "alternativas": ["42", "49", "56"],
+            "correta": 1,
+        },
+        {
+            "pergunta": "Quanto é 3 vezes 8 mais 4?",
+            "alternativas": ["28", "32", "36"],
+            "correta": 0,
         },
     ],
 
-    "Casas Mal-Assombradas": [
+    "Ciências": [
         {
-            "pergunta": "Qual estilo literário ajudou a popularizar histórias de mansões sombrias e assombradas?",
-            "alternativas": ["Gótico", "Realismo", "Futurismo"],
-            "correta": 0,
-        },
-        {
-            "pergunta": "Em relatos de casas assombradas, qual fenômeno é frequentemente associado a um poltergeist?",
-            "alternativas": ["Luzes solares", "Objetos movendo", "Flores crescendo"],
+            "pergunta": "Qual gás é mais abundante na atmosfera terrestre?",
+            "alternativas": ["Oxigênio", "Nitrogênio", "Gás carbônico"],
             "correta": 1,
         },
         {
-            "pergunta": "Qual elemento arquitetônico aparece com frequência em histórias clássicas de casas assombradas?",
-            "alternativas": ["Piscina olímpica", "Garagem aberta", "Corredores antigos"],
-            "correta": 2,
+            "pergunta": "Qual organela celular é conhecida como central de energia da célula?",
+            "alternativas": ["Mitocôndria", "Ribossomo", "Lisossomo"],
+            "correta": 0,
+        },
+        {
+            "pergunta": "Qual fenômeno transforma água líquida em vapor?",
+            "alternativas": ["Condensação", "Evaporação", "Solidificação"],
+            "correta": 1,
         },
     ],
 
-    "Leões": [
+    "Geografia": [
         {
-            "pergunta": "Em um grupo de leões, quem realiza grande parte das caçadas cooperativas?",
-            "alternativas": ["Leoas", "Machos jovens", "Filhotes"],
+            "pergunta": "Qual é o maior continente em extensão territorial?",
+            "alternativas": ["Ásia", "África", "Europa"],
             "correta": 0,
         },
         {
-            "pergunta": "A juba de um leão macho pode ajudar a indicar principalmente o quê?",
-            "alternativas": ["Idade exata", "Condição física", "Velocidade máxima"],
+            "pergunta": "Qual linha imaginária divide a Terra em hemisférios Norte e Sul?",
+            "alternativas": ["Trópico de Câncer", "Linha do Equador", "Meridiano de Greenwich"],
             "correta": 1,
         },
         {
-            "pergunta": "Um rugido de leão pode ser ouvido a vários quilômetros principalmente para quê?",
-            "alternativas": ["Atrair presas", "Localizar água", "Comunicar território"],
-            "correta": 2,
+            "pergunta": "Qual é o maior deserto quente do mundo?",
+            "alternativas": ["Saara", "Atacama", "Gobi"],
+            "correta": 0,
         },
     ],
 
-    "Macacos": [
+    "História": [
         {
-            "pergunta": "Qual grupo de macacos é conhecido por usar pedras como ferramentas para quebrar alimentos?",
-            "alternativas": ["Macacos-prego", "Babuínos", "Mandris"],
-            "correta": 0,
+            "pergunta": "Qual civilização construiu Machu Picchu?",
+            "alternativas": ["Astecas", "Maias", "Incas"],
+            "correta": 2,
         },
         {
-            "pergunta": "Qual macaco ficou famoso por entrar em águas termais no Japão?",
-            "alternativas": ["Macaco-aranha", "Macaco-japonês", "Macaco-prego"],
+            "pergunta": "Em qual século ocorreu a Revolução Francesa?",
+            "alternativas": ["Século XVII", "Século XVIII", "Século XIX"],
             "correta": 1,
         },
         {
-            "pergunta": "Qual característica ajuda alguns macacos-aranha a se movimentarem pelas árvores?",
-            "alternativas": ["Garras retráteis", "Asas membranosas", "Cauda preênsil"],
-            "correta": 2,
+            "pergunta": "Qual império tinha Roma como centro político?",
+            "alternativas": ["Império Romano", "Império Persa", "Império Otomano"],
+            "correta": 0,
         },
     ],
 
-    "Hipopótamos": [
+    "História Bíblica": [
         {
-            "pergunta": "Qual grupo de animais está entre os parentes vivos mais próximos dos hipopótamos?",
-            "alternativas": ["Cetáceos", "Rinocerontes", "Elefantes"],
+            "pergunta": "Quem interpretou sonhos no Egito e se tornou governador?",
+            "alternativas": ["José", "Moisés", "Samuel"],
             "correta": 0,
         },
         {
-            "pergunta": "A secreção avermelhada da pele do hipopótamo ajuda principalmente em quê?",
-            "alternativas": ["Produzir veneno", "Proteger a pele", "Atrair parceiros"],
-            "correta": 1,
+            "pergunta": "Quem enfrentou os profetas de Baal no monte Carmelo?",
+            "alternativas": ["Elias", "Isaías", "Jeremias"],
+            "correta": 0,
         },
         {
-            "pergunta": "Quando se desloca debaixo d'água, o hipopótamo costuma fazer o quê?",
-            "alternativas": ["Bater nadadeiras", "Flutuar parado", "Impulsionar no fundo"],
-            "correta": 2,
+            "pergunta": "Quem foi engolido por um grande peixe?",
+            "alternativas": ["Jonas", "Jó", "Josué"],
+            "correta": 0,
         },
     ],
 
