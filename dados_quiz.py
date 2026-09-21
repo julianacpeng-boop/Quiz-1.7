@@ -5,8 +5,7 @@
 # Cada vídeo pode ter 3 perguntas.
 # correta: 0=A, 1=B, 2=C
 # ============================================================
-
-    QUIZZES = {
+QUIZZES = {
 
     "Gravidez": [
         {
