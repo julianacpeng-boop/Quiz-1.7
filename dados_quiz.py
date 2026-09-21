@@ -8,57 +8,57 @@
 
 QUIZZES = {
 
-    "Vampiros": [
+    "Elefantes": [
         {
-            "pergunta": "As lendas de vampiros ficaram especialmente populares em qual região da Europa?",
-            "alternativas": ["Europa Oriental", "Escandinávia", "Península Ibérica"],
+            "pergunta": "A gestação de um elefante pode durar aproximadamente quanto tempo?",
+            "alternativas": ["15 meses", "22 meses", "28 meses"],
+            "correta": 1,
+        },
+        {
+            "pergunta": "Elefantes conseguem se comunicar a longas distâncias usando sons de qual tipo?",
+            "alternativas": ["Infrassons", "Ultrassons", "Ecolocalização"],
             "correta": 0,
         },
         {
-            "pergunta": "Qual personagem literário ajudou a popularizar a imagem moderna do vampiro?",
-            "alternativas": ["Frankenstein", "Drácula", "Fausto"],
-            "correta": 1,
-        },
-        {
-            "pergunta": "Nas lendas tradicionais, vampiros eram associados principalmente a quê?",
-            "alternativas": ["Tempestades", "Doenças", "Colheitas"],
-            "correta": 1,
+            "pergunta": "Qual característica ajuda o elefante-africano a dissipar calor?",
+            "alternativas": ["Orelhas grandes", "Cauda longa", "Presas curvas"],
+            "correta": 0,
         },
     ],
 
-    "Cangurus": [
+    "Golfinhos": [
         {
-            "pergunta": "Os cangurus são nativos principalmente de qual país?",
-            "alternativas": ["Austrália", "Índia", "África do Sul"],
-            "correta": 0,
-        },
-        {
-            "pergunta": "Como é chamada a bolsa onde a fêmea carrega o filhote?",
-            "alternativas": ["Marsúpio", "Casulo", "Ninho"],
-            "correta": 0,
-        },
-        {
-            "pergunta": "Qual característica ajuda o canguru a percorrer grandes distâncias?",
-            "alternativas": ["Asas fortes", "Patas traseiras", "Cauda curta"],
+            "pergunta": "Como os golfinhos conseguem descansar sem parar completamente de respirar?",
+            "alternativas": ["Dormem submersos", "Alternam hemisférios", "Prendem a respiração"],
             "correta": 1,
+        },
+        {
+            "pergunta": "Qual recurso ajuda muitos golfinhos a localizar objetos debaixo d'água?",
+            "alternativas": ["Infrassom", "Ecolocalização", "Campo magnético"],
+            "correta": 1,
+        },
+        {
+            "pergunta": "Os golfinhos pertencem a qual grupo de animais?",
+            "alternativas": ["Mamíferos", "Peixes cartilaginosos", "Répteis marinhos"],
+            "correta": 0,
         },
     ],
 
-    "Girafas": [
+    "Bicho-Preguiça": [
         {
-            "pergunta": "As girafas são encontradas naturalmente em qual continente?",
-            "alternativas": ["África", "Ásia", "América"],
+            "pergunta": "Por que algumas preguiças descem das árvores aproximadamente uma vez por semana?",
+            "alternativas": ["Para beber água", "Para defecar", "Para procurar abrigo"],
+            "correta": 1,
+        },
+        {
+            "pergunta": "O tom esverdeado observado no pelo de algumas preguiças está associado a quê?",
+            "alternativas": ["Algas", "Pigmento natural", "Folhas trituradas"],
             "correta": 0,
         },
         {
-            "pergunta": "Quantas vértebras cervicais uma girafa possui, em geral?",
-            "alternativas": ["Cinco", "Sete", "Doze"],
-            "correta": 1,
-        },
-        {
-            "pergunta": "Qual vantagem principal o pescoço longo oferece à girafa?",
-            "alternativas": ["Nadar melhor", "Alcançar folhas", "Correr mais rápido"],
-            "correta": 1,
+            "pergunta": "Qual característica do metabolismo ajuda a explicar os movimentos lentos da preguiça?",
+            "alternativas": ["Metabolismo baixo", "Pulmões pequenos", "Sangue mais frio"],
+            "correta": 0,
         },
     ],
 
