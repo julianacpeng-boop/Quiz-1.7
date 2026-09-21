@@ -6,114 +6,60 @@
 # correta: 0=A, 1=B, 2=C
 # ============================================================
 
-QUIZZES = {
+    QUIZZES = {
 
-    "Português": [
+    "Gravidez": [
         {
-            "pergunta": "Qual destas palavras é um advérbio?",
-            "alternativas": ["Rapidamente", "Bonito", "Casa"],
-            "correta": 0,
-        },
-        {
-            "pergunta": "Qual palavra apresenta encontro consonantal?",
-            "alternativas": ["Prato", "Saída", "Baú"],
-            "correta": 0,
-        },
-        {
-            "pergunta": "Qual é o antônimo de escasso?",
-            "alternativas": ["Raro", "Abundante", "Pequeno"],
-            "correta": 1,
-        },
-    ],
-
-    "Matemática": [
-        {
-            "pergunta": "Quanto é 25 por cento de 200?",
-            "alternativas": ["25", "50", "75"],
+            "pergunta": "Qual hormônio é detectado pela maioria dos testes de gravidez?",
+            "alternativas": ["Insulina", "hCG", "Melatonina"],
             "correta": 1,
         },
         {
-            "pergunta": "Qual é o resultado de 7 ao quadrado?",
-            "alternativas": ["42", "49", "56"],
-            "correta": 1,
-        },
-        {
-            "pergunta": "Quanto é 3 vezes 8 mais 4?",
-            "alternativas": ["28", "32", "36"],
-            "correta": 0,
-        },
-    ],
-
-    "Ciências": [
-        {
-            "pergunta": "Qual gás é mais abundante na atmosfera terrestre?",
-            "alternativas": ["Oxigênio", "Nitrogênio", "Gás carbônico"],
-            "correta": 1,
-        },
-        {
-            "pergunta": "Qual organela celular é conhecida como central de energia da célula?",
-            "alternativas": ["Mitocôndria", "Ribossomo", "Lisossomo"],
-            "correta": 0,
-        },
-        {
-            "pergunta": "Qual fenômeno transforma água líquida em vapor?",
-            "alternativas": ["Condensação", "Evaporação", "Solidificação"],
-            "correta": 1,
-        },
-    ],
-
-    "Geografia": [
-        {
-            "pergunta": "Qual é o maior continente em extensão territorial?",
-            "alternativas": ["Ásia", "África", "Europa"],
-            "correta": 0,
-        },
-        {
-            "pergunta": "Qual linha imaginária divide a Terra em hemisférios Norte e Sul?",
-            "alternativas": ["Trópico de Câncer", "Linha do Equador", "Meridiano de Greenwich"],
-            "correta": 1,
-        },
-        {
-            "pergunta": "Qual é o maior deserto quente do mundo?",
-            "alternativas": ["Saara", "Atacama", "Gobi"],
-            "correta": 0,
-        },
-    ],
-
-    "História": [
-        {
-            "pergunta": "Qual civilização construiu Machu Picchu?",
-            "alternativas": ["Astecas", "Maias", "Incas"],
+            "pergunta": "Onde normalmente ocorre a implantação do embrião?",
+            "alternativas": ["Ovário", "Vagina", "Útero"],
             "correta": 2,
         },
         {
-            "pergunta": "Em qual século ocorreu a Revolução Francesa?",
-            "alternativas": ["Século XVII", "Século XVIII", "Século XIX"],
+            "pergunta": "Qual órgão temporário ajuda nas trocas entre mãe e feto?",
+            "alternativas": ["Placenta", "Pâncreas", "Apêndice"],
+            "correta": 0,
+        },
+    ],
+
+    "Menstruação": [
+        {
+            "pergunta": "O sangramento menstrual ocorre principalmente pela eliminação de qual tecido?",
+            "alternativas": ["Miométrio", "Endométrio", "Perimétrio"],
             "correta": 1,
         },
         {
-            "pergunta": "Qual império tinha Roma como centro político?",
-            "alternativas": ["Império Romano", "Império Persa", "Império Otomano"],
+            "pergunta": "Qual hormônio costuma aumentar antes da ovulação e desencadear sua ocorrência?",
+            "alternativas": ["TSH", "Insulina", "LH"],
+            "correta": 2,
+        },
+        {
+            "pergunta": "Um ciclo menstrual precisa ter exatamente 28 dias para ser considerado normal?",
+            "alternativas": ["Não", "Sim", "Sempre"],
             "correta": 0,
         },
     ],
 
-    "História Bíblica": [
+    "Preservativo": [
         {
-            "pergunta": "Quem interpretou sonhos no Egito e se tornou governador?",
-            "alternativas": ["José", "Moisés", "Samuel"],
-            "correta": 0,
+            "pergunta": "Além de ajudar a prevenir gravidez, o preservativo reduz o risco de quê?",
+            "alternativas": ["Alergias", "ISTs", "Enxaqueca"],
+            "correta": 1,
         },
         {
-            "pergunta": "Quem enfrentou os profetas de Baal no monte Carmelo?",
-            "alternativas": ["Elias", "Isaías", "Jeremias"],
-            "correta": 0,
+            "pergunta": "Qual tipo de lubrificante pode danificar preservativos de látex?",
+            "alternativas": ["Base aquosa", "Base silicone", "Base oleosa"],
+            "correta": 2,
         },
         {
-            "pergunta": "Quem foi engolido por um grande peixe?",
-            "alternativas": ["Jonas", "Jó", "Josué"],
+            "pergunta": "Quando o preservativo externo deve ser colocado?",
+            "alternativas": ["Antes da relação", "Após ejaculação", "No final"],
             "correta": 0,
         },
     ],
 
-}
+    }
