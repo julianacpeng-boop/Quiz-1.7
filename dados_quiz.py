@@ -8,57 +8,57 @@
 
 QUIZZES = {
 
-    "Pirâmides": [
+    "Vampiros": [
         {
-            "pergunta": "As famosas pirâmides de Gizé foram construídas por qual civilização?",
-            "alternativas": ["Egípcia", "Romana", "Persa"],
+            "pergunta": "As lendas de vampiros ficaram especialmente populares em qual região da Europa?",
+            "alternativas": ["Europa Oriental", "Escandinávia", "Península Ibérica"],
             "correta": 0,
         },
         {
-            "pergunta": "Qual era uma das principais funções das grandes pirâmides egípcias?",
-            "alternativas": ["Mercados públicos", "Complexos funerários", "Fortalezas militares"],
+            "pergunta": "Qual personagem literário ajudou a popularizar a imagem moderna do vampiro?",
+            "alternativas": ["Frankenstein", "Drácula", "Fausto"],
             "correta": 1,
         },
         {
-            "pergunta": "Qual faraó está associado à Grande Pirâmide de Gizé?",
-            "alternativas": ["Tutancâmon", "Ramsés II", "Quéops"],
-            "correta": 2,
+            "pergunta": "Nas lendas tradicionais, vampiros eram associados principalmente a quê?",
+            "alternativas": ["Tempestades", "Doenças", "Colheitas"],
+            "correta": 1,
         },
     ],
 
-    "Zumbis": [
+    "Cangurus": [
         {
-            "pergunta": "A figura tradicional do zumbi está fortemente ligada ao folclore de qual país?",
-            "alternativas": ["Haiti", "México", "Japão"],
+            "pergunta": "Os cangurus são nativos principalmente de qual país?",
+            "alternativas": ["Austrália", "Índia", "África do Sul"],
             "correta": 0,
         },
         {
-            "pergunta": "As histórias tradicionais de zumbis haitianos estão relacionadas a qual tradição religiosa?",
-            "alternativas": ["Xintoísmo", "Vodou", "Hinduísmo"],
-            "correta": 1,
+            "pergunta": "Como é chamada a bolsa onde a fêmea carrega o filhote?",
+            "alternativas": ["Marsúpio", "Casulo", "Ninho"],
+            "correta": 0,
         },
         {
-            "pergunta": "Antes dos filmes modernos, o zumbi era geralmente descrito como alguém em qual condição?",
-            "alternativas": ["Invisível", "Gigante", "Sem vontade própria"],
-            "correta": 2,
+            "pergunta": "Qual característica ajuda o canguru a percorrer grandes distâncias?",
+            "alternativas": ["Asas fortes", "Patas traseiras", "Cauda curta"],
+            "correta": 1,
         },
     ],
 
-    "Bruxas": [
+    "Girafas": [
         {
-            "pergunta": "Em qual período ocorreram muitas das grandes perseguições por bruxaria na Europa?",
-            "alternativas": ["Idade Moderna", "Pré-História", "Antiguidade clássica"],
+            "pergunta": "As girafas são encontradas naturalmente em qual continente?",
+            "alternativas": ["África", "Ásia", "América"],
             "correta": 0,
         },
         {
-            "pergunta": "Os famosos julgamentos de Salem aconteceram em qual região?",
-            "alternativas": ["França", "América colonial", "Egito antigo"],
+            "pergunta": "Quantas vértebras cervicais uma girafa possui, em geral?",
+            "alternativas": ["Cinco", "Sete", "Doze"],
             "correta": 1,
         },
         {
-            "pergunta": "Qual objeto se tornou um dos símbolos mais conhecidos das bruxas no imaginário popular?",
-            "alternativas": ["Espada", "Escudo", "Vassoura"],
-            "correta": 2,
+            "pergunta": "Qual vantagem principal o pescoço longo oferece à girafa?",
+            "alternativas": ["Nadar melhor", "Alcançar folhas", "Correr mais rápido"],
+            "correta": 1,
         },
     ],
 
