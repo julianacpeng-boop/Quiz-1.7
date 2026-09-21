@@ -8,56 +8,56 @@
 
 QUIZZES = {
 
-    "Circo": [
+    "Pirâmides": [
         {
-            "pergunta": "Qual profissional realiza números de equilíbrio em grandes alturas?",
-            "alternativas": ["Equilibrista", "Palhaço", "Mágico"],
+            "pergunta": "As famosas pirâmides de Gizé foram construídas por qual civilização?",
+            "alternativas": ["Egípcia", "Romana", "Persa"],
             "correta": 0,
         },
         {
-            "pergunta": "Como é chamada a grande tenda onde acontecem os espetáculos circenses?",
-            "alternativas": ["Picadeiro", "Lona", "Arena"],
+            "pergunta": "Qual era uma das principais funções das grandes pirâmides egípcias?",
+            "alternativas": ["Mercados públicos", "Complexos funerários", "Fortalezas militares"],
             "correta": 1,
         },
         {
-            "pergunta": "Qual artista é conhecido por fazer truques e ilusões?",
-            "alternativas": ["Malabarista", "Acrobata", "Mágico"],
+            "pergunta": "Qual faraó está associado à Grande Pirâmide de Gizé?",
+            "alternativas": ["Tutancâmon", "Ramsés II", "Quéops"],
             "correta": 2,
         },
     ],
 
-    "Igreja": [
+    "Zumbis": [
         {
-            "pergunta": "Como é chamado o espaço principal onde os fiéis se reúnem em muitas igrejas?",
-            "alternativas": ["Nave", "Sacristia", "Torre"],
+            "pergunta": "A figura tradicional do zumbi está fortemente ligada ao folclore de qual país?",
+            "alternativas": ["Haiti", "México", "Japão"],
             "correta": 0,
         },
         {
-            "pergunta": "Qual elemento arquitetônico costuma abrigar sinos?",
-            "alternativas": ["Altar", "Campanário", "Púlpito"],
+            "pergunta": "As histórias tradicionais de zumbis haitianos estão relacionadas a qual tradição religiosa?",
+            "alternativas": ["Xintoísmo", "Vodou", "Hinduísmo"],
             "correta": 1,
         },
         {
-            "pergunta": "Como é chamado o local elevado usado para pregação em muitas igrejas?",
-            "alternativas": ["Claustro", "Nave", "Púlpito"],
+            "pergunta": "Antes dos filmes modernos, o zumbi era geralmente descrito como alguém em qual condição?",
+            "alternativas": ["Invisível", "Gigante", "Sem vontade própria"],
             "correta": 2,
         },
     ],
 
-    "Caverna": [
+    "Bruxas": [
         {
-            "pergunta": "Como se chama a formação que cresce do teto de uma caverna?",
-            "alternativas": ["Estalactite", "Estalagmite", "Cristal"],
+            "pergunta": "Em qual período ocorreram muitas das grandes perseguições por bruxaria na Europa?",
+            "alternativas": ["Idade Moderna", "Pré-História", "Antiguidade clássica"],
             "correta": 0,
         },
         {
-            "pergunta": "Qual formação cresce do chão em direção ao teto?",
-            "alternativas": ["Estalactite", "Estalagmite", "Fóssil"],
+            "pergunta": "Os famosos julgamentos de Salem aconteceram em qual região?",
+            "alternativas": ["França", "América colonial", "Egito antigo"],
             "correta": 1,
         },
         {
-            "pergunta": "Qual ciência estuda cavernas e ambientes subterrâneos?",
-            "alternativas": ["Geografia", "Arqueologia", "Espeleologia"],
+            "pergunta": "Qual objeto se tornou um dos símbolos mais conhecidos das bruxas no imaginário popular?",
+            "alternativas": ["Espada", "Escudo", "Vassoura"],
             "correta": 2,
         },
     ],
