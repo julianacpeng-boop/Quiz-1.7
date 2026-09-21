@@ -8,57 +8,57 @@
 
 QUIZZES = {
 
-    "Elefantes": [
+    "Gatos": [
         {
-            "pergunta": "A gestação de um elefante pode durar aproximadamente quanto tempo?",
-            "alternativas": ["15 meses", "22 meses", "28 meses"],
+            "pergunta": "Qual estrutura ajuda o gato a perceber objetos e espaços muito próximos do rosto?",
+            "alternativas": ["Bigodes", "Caninos", "Pupilas"],
+            "correta": 0,
+        },
+        {
+            "pergunta": "Por que os gatos conseguem enxergar relativamente bem com pouca luz?",
+            "alternativas": ["Retina adaptada", "Olhos maiores", "Visão térmica"],
+            "correta": 0,
+        },
+        {
+            "pergunta": "Quando um gato ronrona, isso pode acontecer apenas quando ele está feliz?",
+            "alternativas": ["Sim, sempre", "Não, pode variar", "Só quando dorme"],
             "correta": 1,
-        },
-        {
-            "pergunta": "Elefantes conseguem se comunicar a longas distâncias usando sons de qual tipo?",
-            "alternativas": ["Infrassons", "Ultrassons", "Ecolocalização"],
-            "correta": 0,
-        },
-        {
-            "pergunta": "Qual característica ajuda o elefante-africano a dissipar calor?",
-            "alternativas": ["Orelhas grandes", "Cauda longa", "Presas curvas"],
-            "correta": 0,
         },
     ],
 
-    "Golfinhos": [
+    "Cachorros": [
         {
-            "pergunta": "Como os golfinhos conseguem descansar sem parar completamente de respirar?",
-            "alternativas": ["Dormem submersos", "Alternam hemisférios", "Prendem a respiração"],
-            "correta": 1,
-        },
-        {
-            "pergunta": "Qual recurso ajuda muitos golfinhos a localizar objetos debaixo d'água?",
-            "alternativas": ["Infrassom", "Ecolocalização", "Campo magnético"],
-            "correta": 1,
-        },
-        {
-            "pergunta": "Os golfinhos pertencem a qual grupo de animais?",
-            "alternativas": ["Mamíferos", "Peixes cartilaginosos", "Répteis marinhos"],
+            "pergunta": "Qual sentido costuma ser especialmente desenvolvido nos cães?",
+            "alternativas": ["Olfato", "Paladar", "Visão de cores"],
             "correta": 0,
+        },
+        {
+            "pergunta": "Por que alguns cães ofegam após esforço ou em dias quentes?",
+            "alternativas": ["Para regular calor", "Para aumentar força", "Para dormir melhor"],
+            "correta": 0,
+        },
+        {
+            "pergunta": "O movimento da cauda de um cachorro significa sempre felicidade?",
+            "alternativas": ["Sim, sempre", "Não necessariamente", "Só em filhotes"],
+            "correta": 1,
         },
     ],
 
-    "Bicho-Preguiça": [
+    "Papagaios": [
         {
-            "pergunta": "Por que algumas preguiças descem das árvores aproximadamente uma vez por semana?",
-            "alternativas": ["Para beber água", "Para defecar", "Para procurar abrigo"],
+            "pergunta": "Qual característica permite aos papagaios manipular alimentos com bastante habilidade?",
+            "alternativas": ["Pés zigodáctilos", "Asas longas", "Cauda rígida"],
+            "correta": 0,
+        },
+        {
+            "pergunta": "Papagaios conseguem reproduzir sons humanos principalmente graças a qual estrutura?",
+            "alternativas": ["Siringe", "Laringe dupla", "Bico flexível"],
+            "correta": 0,
+        },
+        {
+            "pergunta": "Muitos papagaios se destacam por qual característica comportamental?",
+            "alternativas": ["Vida solitária", "Inteligência social", "Sono contínuo"],
             "correta": 1,
-        },
-        {
-            "pergunta": "O tom esverdeado observado no pelo de algumas preguiças está associado a quê?",
-            "alternativas": ["Algas", "Pigmento natural", "Folhas trituradas"],
-            "correta": 0,
-        },
-        {
-            "pergunta": "Qual característica do metabolismo ajuda a explicar os movimentos lentos da preguiça?",
-            "alternativas": ["Metabolismo baixo", "Pulmões pequenos", "Sangue mais frio"],
-            "correta": 0,
         },
     ],
 
