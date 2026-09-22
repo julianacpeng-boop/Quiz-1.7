@@ -7,58 +7,58 @@
 # ============================================================
 QUIZZES = {
 
-    "Gravidez": [
+    "Cabelos Cacheados": [
         {
-            "pergunta": "Qual hormônio é detectado pela maioria dos testes de gravidez?",
-            "alternativas": ["Insulina", "hCG", "Melatonina"],
+            "pergunta": "Qual formato do fio costuma dificultar a chegada da oleosidade natural até as pontas?",
+            "alternativas": ["Curvado", "Totalmente reto", "Sem cutícula"],
+            "correta": 0,
+        },
+        {
+            "pergunta": "Qual cuidado costuma ajudar a reduzir o ressecamento dos cabelos cacheados?",
+            "alternativas": ["Água muito quente", "Hidratação regular", "Lavar várias vezes"],
             "correta": 1,
         },
         {
-            "pergunta": "Onde normalmente ocorre a implantação do embrião?",
-            "alternativas": ["Ovário", "Vagina", "Útero"],
+            "pergunta": "O encolhimento aparente dos cachos acontece principalmente por causa de quê?",
+            "alternativas": ["Mudança de cor", "Perda de fios", "Formato espiral"],
             "correta": 2,
-        },
-        {
-            "pergunta": "Qual órgão temporário ajuda nas trocas entre mãe e feto?",
-            "alternativas": ["Placenta", "Pâncreas", "Apêndice"],
-            "correta": 0,
         },
     ],
 
-    "Menstruação": [
+    "Anticoncepcional": [
         {
-            "pergunta": "O sangramento menstrual ocorre principalmente pela eliminação de qual tecido?",
-            "alternativas": ["Miométrio", "Endométrio", "Perimétrio"],
+            "pergunta": "O anticoncepcional hormonal oral protege contra infecções sexualmente transmissíveis?",
+            "alternativas": ["Não", "Sempre", "Somente algumas"],
+            "correta": 0,
+        },
+        {
+            "pergunta": "Qual hormônio pode estar presente em anticoncepcionais combinados?",
+            "alternativas": ["Insulina", "Estrogênio", "Adrenalina"],
             "correta": 1,
         },
         {
-            "pergunta": "Qual hormônio costuma aumentar antes da ovulação e desencadear sua ocorrência?",
-            "alternativas": ["TSH", "Insulina", "LH"],
+            "pergunta": "Esquecer comprimidos anticoncepcionais pode fazer o quê?",
+            "alternativas": ["Aumentar proteção", "Eliminar ovulação sempre", "Reduzir eficácia"],
             "correta": 2,
-        },
-        {
-            "pergunta": "Um ciclo menstrual precisa ter exatamente 28 dias para ser considerado normal?",
-            "alternativas": ["Não", "Sim", "Sempre"],
-            "correta": 0,
         },
     ],
 
-    "Preservativo": [
+    "Casas Medievais": [
         {
-            "pergunta": "Além de ajudar a prevenir gravidez, o preservativo reduz o risco de quê?",
-            "alternativas": ["Alergias", "ISTs", "Enxaqueca"],
+            "pergunta": "Qual material era comum na estrutura de muitas casas medievais europeias?",
+            "alternativas": ["Madeira", "Alumínio", "Concreto armado"],
+            "correta": 0,
+        },
+        {
+            "pergunta": "Por que alguns andares superiores de casas medievais avançavam sobre a rua?",
+            "alternativas": ["Para armazenar água", "Ganhar espaço", "Evitar janelas"],
             "correta": 1,
         },
         {
-            "pergunta": "Qual tipo de lubrificante pode danificar preservativos de látex?",
-            "alternativas": ["Base aquosa", "Base silicone", "Base oleosa"],
+            "pergunta": "Qual material podia ser usado para preencher paredes entre vigas de madeira?",
+            "alternativas": ["Vidro", "Mármore", "Barro e palha"],
             "correta": 2,
-        },
-        {
-            "pergunta": "Quando o preservativo externo deve ser colocado?",
-            "alternativas": ["Antes da relação", "Após ejaculação", "No final"],
-            "correta": 0,
         },
     ],
 
-    }
+}
