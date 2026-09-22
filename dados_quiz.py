@@ -7,60 +7,58 @@
 # ============================================================
 QUIZZES = {
 
-    "Os Simpsons": [
+    "Rock in Rio 2026": [
         {
-            "pergunta": "Segundo uma teoria de fãs, Homer estaria vivendo parte da série em qual estado?",
-            "alternativas": ["Em coma", "Em um sonho", "Em outra dimensão"],
-            "correta": 0,
-        },
-        {
-            "pergunta": "Qual acontecimento da série é usado por fãs para sustentar a teoria do coma de Homer?",
-            "alternativas": ["Acidente de carro", "Explosão de cerveja", "Queda de avião"],
+            "pergunta": "A edição de 2026 do Rock in Rio teve aproximadamente quantas pessoas ao longo dos sete dias?",
+            "alternativas": ["300 mil", "Mais de 700 mil", "1,5 milhão"],
             "correta": 1,
         },
         {
-            "pergunta": "Outra teoria sombria sugere que Springfield poderia esconder consequências de quê?",
-            "alternativas": ["Experimentos alienígenas", "Viagens temporais", "Radiação nuclear"],
+            "pergunta": "Qual grupo marcou a estreia do K-pop no Rock in Rio em 2026?",
+            "alternativas": ["Stray Kids", "BTS", "Blackpink"],
+            "correta": 0,
+        },
+        {
+            "pergunta": "A edição de 2026 reuniu aproximadamente quantos shows?",
+            "alternativas": ["90", "140", "190"],
             "correta": 2,
         },
     ],
 
-    "Os Flintstones": [
+    "Nova Cratera na Lua": [
         {
-            "pergunta": "Uma teoria de fãs afirma que Os Flintstones não viveriam no passado, mas em qual cenário?",
-            "alternativas": ["Futuro pós-apocalíptico", "Planeta distante", "Dimensão paralela"],
-            "correta": 0,
-        },
-        {
-            "pergunta": "Segundo essa teoria, o que explicaria humanos e dinossauros vivendo juntos?",
-            "alternativas": ["Magia antiga", "Mundo reconstruído", "Viagem espacial"],
+            "pergunta": "A nova grande cratera identificada pela NASA na Lua tem aproximadamente qual diâmetro?",
+            "alternativas": ["22 metros", "222 metros", "2 quilômetros"],
             "correta": 1,
         },
         {
-            "pergunta": "Qual outro desenho é frequentemente ligado aos Flintstones em teorias sobre uma mesma linha do tempo?",
-            "alternativas": ["Scooby-Doo", "Os Smurfs", "Os Jetsons"],
+            "pergunta": "Qual sonda ajudou a identificar a nova cratera lunar?",
+            "alternativas": ["Lunar Reconnaissance Orbiter", "Voyager 1", "Juno"],
+            "correta": 0,
+        },
+        {
+            "pergunta": "O impacto que formou essa cratera aconteceu em qual ano?",
+            "alternativas": ["2019", "2022", "2024"],
             "correta": 2,
         },
     ],
 
-    "Caverna do Dragão": [
+    "Googlebook e Inteligência Artificial": [
         {
-            "pergunta": "Segundo uma famosa teoria sombria, o que teria acontecido com as crianças antes de chegarem ao Reino?",
-            "alternativas": ["Teriam morrido", "Perdido a memória", "Sido sequestradas"],
+            "pergunta": "Qual inteligência artificial está no centro dos novos notebooks Googlebook?",
+            "alternativas": ["Gemini", "Alexa", "Siri"],
             "correta": 0,
         },
         {
-            "pergunta": "Nessa teoria, o Reino seria interpretado como uma espécie de quê?",
-            "alternativas": ["Sonho coletivo", "Purgatório", "Planeta distante"],
+            "pergunta": "Qual foi o preço inicial anunciado para os Googlebooks em 2026?",
+            "alternativas": ["499 dólares", "899 dólares", "1.499 dólares"],
             "correta": 1,
         },
         {
-            "pergunta": "Qual personagem é frequentemente apontado por teorias de fãs como alguém que impediria o grupo de realmente voltar para casa?",
-            "alternativas": ["Uni", "Vingador", "Mestre dos Magos"],
+            "pergunta": "Os Googlebooks foram pensados para ter integração especialmente forte com qual sistema?",
+            "alternativas": ["PlayStation", "Windows Phone", "Android"],
             "correta": 2,
         },
     ],
 
 }
-
-
