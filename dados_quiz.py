@@ -5,61 +5,62 @@
 # Cada vídeo pode ter 3 perguntas.
 # correta: 0=A, 1=B, 2=C
 # ============================================================
-
 QUIZZES = {
 
-    "Scooby-Doo": [
+    "Os Simpsons": [
         {
-            "pergunta": "Segundo uma teoria de fãs, por que tantos monstros de Scooby-Doo acabam sendo humanos disfarçados?",
-            "alternativas": ["Fenômenos reais", "Crimes planejados", "Experimentos secretos"],
-            "correta": 1,
-        },
-        {
-            "pergunta": "Uma teoria sombria sobre Scooby-Doo sugere que a Mistério S.A. vive em um mundo marcado por quê?",
-            "alternativas": ["Crise social", "Viagens espaciais", "Magia antiga"],
+            "pergunta": "Segundo uma teoria de fãs, Homer estaria vivendo parte da série em qual estado?",
+            "alternativas": ["Em coma", "Em um sonho", "Em outra dimensão"],
             "correta": 0,
         },
         {
-            "pergunta": "Em algumas teorias de fãs, o comportamento estranho de Salsicha seria explicado por quê?",
-            "alternativas": ["Poder sobrenatural", "Viagem temporal", "Estado alterado"],
+            "pergunta": "Qual acontecimento da série é usado por fãs para sustentar a teoria do coma de Homer?",
+            "alternativas": ["Acidente de carro", "Explosão de cerveja", "Queda de avião"],
+            "correta": 1,
+        },
+        {
+            "pergunta": "Outra teoria sombria sugere que Springfield poderia esconder consequências de quê?",
+            "alternativas": ["Experimentos alienígenas", "Viagens temporais", "Radiação nuclear"],
             "correta": 2,
         },
     ],
 
-    "Pokémon": [
+    "Os Flintstones": [
         {
-            "pergunta": "Segundo uma famosa teoria de fãs, o que teria acontecido com Ash no início da série?",
-            "alternativas": ["Entrou em coma", "Perdeu a memória", "Virou um Pokémon"],
+            "pergunta": "Uma teoria de fãs afirma que Os Flintstones não viveriam no passado, mas em qual cenário?",
+            "alternativas": ["Futuro pós-apocalíptico", "Planeta distante", "Dimensão paralela"],
             "correta": 0,
         },
         {
-            "pergunta": "Na teoria do coma de Ash, suas aventuras seriam o quê?",
-            "alternativas": ["Viagens futuras", "Uma imaginação", "Experimentos científicos"],
+            "pergunta": "Segundo essa teoria, o que explicaria humanos e dinossauros vivendo juntos?",
+            "alternativas": ["Magia antiga", "Mundo reconstruído", "Viagem espacial"],
             "correta": 1,
         },
         {
-            "pergunta": "Qual detalhe é usado por fãs para alimentar teorias sobre Ash não envelhecer?",
-            "alternativas": ["Trocar de nome", "Perder batalhas", "Continuar criança"],
+            "pergunta": "Qual outro desenho é frequentemente ligado aos Flintstones em teorias sobre uma mesma linha do tempo?",
+            "alternativas": ["Scooby-Doo", "Os Smurfs", "Os Jetsons"],
             "correta": 2,
         },
     ],
 
-    "Bob Esponja": [
+    "Caverna do Dragão": [
         {
-            "pergunta": "Uma teoria popular associa a Fenda do Biquíni a qual acontecimento histórico?",
-            "alternativas": ["Testes nucleares", "Erupções vulcânicas", "Queda de meteoros"],
+            "pergunta": "Segundo uma famosa teoria sombria, o que teria acontecido com as crianças antes de chegarem ao Reino?",
+            "alternativas": ["Teriam morrido", "Perdido a memória", "Sido sequestradas"],
             "correta": 0,
         },
         {
-            "pergunta": "Segundo essa teoria, a radiação explicaria principalmente o quê?",
-            "alternativas": ["Água colorida", "Animais humanizados", "Casas submarinas"],
+            "pergunta": "Nessa teoria, o Reino seria interpretado como uma espécie de quê?",
+            "alternativas": ["Sonho coletivo", "Purgatório", "Planeta distante"],
             "correta": 1,
         },
         {
-            "pergunta": "As teorias nucleares sobre Bob Esponja costumam citar testes realizados em qual região?",
-            "alternativas": ["Mar Mediterrâneo", "Oceano Ártico", "Atol de Bikini"],
+            "pergunta": "Qual personagem é frequentemente apontado por teorias de fãs como alguém que impediria o grupo de realmente voltar para casa?",
+            "alternativas": ["Uni", "Vingador", "Mestre dos Magos"],
             "correta": 2,
         },
     ],
 
 }
+
+
