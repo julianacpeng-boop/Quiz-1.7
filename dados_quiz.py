@@ -5,58 +5,59 @@
 # Cada vídeo pode ter 3 perguntas.
 # correta: 0=A, 1=B, 2=C
 # ============================================================
+
 QUIZZES = {
 
-    "Cabelos Cacheados": [
+    "Homo sapiens": [
         {
-            "pergunta": "Qual formato do fio costuma dificultar a chegada da oleosidade natural até as pontas?",
-            "alternativas": ["Curvado", "Totalmente reto", "Sem cutícula"],
+            "pergunta": "Há aproximadamente quanto tempo surgiu o Homo sapiens?",
+            "alternativas": ["300 mil anos", "30 mil anos", "3 milhões de anos"],
             "correta": 0,
         },
         {
-            "pergunta": "Qual cuidado costuma ajudar a reduzir o ressecamento dos cabelos cacheados?",
-            "alternativas": ["Água muito quente", "Hidratação regular", "Lavar várias vezes"],
+            "pergunta": "Qual característica está ligada ao sucesso evolutivo do Homo sapiens?",
+            "alternativas": ["Garras fortes", "Cooperação complexa", "Visão noturna"],
             "correta": 1,
         },
         {
-            "pergunta": "O encolhimento aparente dos cachos acontece principalmente por causa de quê?",
-            "alternativas": ["Mudança de cor", "Perda de fios", "Formato espiral"],
+            "pergunta": "Com qual outro grupo humano o Homo sapiens chegou a cruzar?",
+            "alternativas": ["Australopitecos", "Paranthropus", "Neandertais"],
             "correta": 2,
         },
     ],
 
-    "Anticoncepcional": [
+    "Experimentos Estranhos": [
         {
-            "pergunta": "O anticoncepcional hormonal oral protege contra infecções sexualmente transmissíveis?",
-            "alternativas": ["Não", "Sempre", "Somente algumas"],
+            "pergunta": "Qual experimento ficou famoso por estudar obediência a ordens de autoridade?",
+            "alternativas": ["Experimento Milgram", "Experimento Pavlov", "Projeto Manhattan"],
             "correta": 0,
         },
         {
-            "pergunta": "Qual hormônio pode estar presente em anticoncepcionais combinados?",
-            "alternativas": ["Insulina", "Estrogênio", "Adrenalina"],
+            "pergunta": "Qual experimento psicológico simulou uma prisão em uma universidade dos Estados Unidos?",
+            "alternativas": ["Milgram", "Prisão de Stanford", "Pequeno Albert"],
             "correta": 1,
         },
         {
-            "pergunta": "Esquecer comprimidos anticoncepcionais pode fazer o quê?",
-            "alternativas": ["Aumentar proteção", "Eliminar ovulação sempre", "Reduzir eficácia"],
+            "pergunta": "Qual experimento ficou conhecido por condicionar medo em uma criança chamada Albert?",
+            "alternativas": ["Pavlov", "Stanford", "Pequeno Albert"],
             "correta": 2,
         },
     ],
 
-    "Casas Medievais": [
+    "Sol": [
         {
-            "pergunta": "Qual material era comum na estrutura de muitas casas medievais europeias?",
-            "alternativas": ["Madeira", "Alumínio", "Concreto armado"],
+            "pergunta": "Qual elemento químico é o principal combustível do Sol?",
+            "alternativas": ["Hidrogênio", "Oxigênio", "Carbono"],
             "correta": 0,
         },
         {
-            "pergunta": "Por que alguns andares superiores de casas medievais avançavam sobre a rua?",
-            "alternativas": ["Para armazenar água", "Ganhar espaço", "Evitar janelas"],
+            "pergunta": "Quanto tempo aproximadamente a luz do Sol leva para chegar à Terra?",
+            "alternativas": ["8 segundos", "8 minutos", "80 minutos"],
             "correta": 1,
         },
         {
-            "pergunta": "Qual material podia ser usado para preencher paredes entre vigas de madeira?",
-            "alternativas": ["Vidro", "Mármore", "Barro e palha"],
+            "pergunta": "Em qual camada do Sol ocorre principalmente a fusão nuclear?",
+            "alternativas": ["Fotosfera", "Cromosfera", "Núcleo"],
             "correta": 2,
         },
     ],
