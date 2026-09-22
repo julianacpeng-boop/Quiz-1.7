@@ -1,21 +1,42 @@
 QUIZZES = {
-    "Enfermagem": [
+
+    "Animais do Mundo": [
         {
-            "pergunta": "Quem ficou conhecida por ajudar a transformar a enfermagem em uma profissão moderna?",
-            "alternativas": ["Florence Nightingale", "Marie Curie", "Clara Barton"],
-            "correta": 0,
-            "imagem": "imagens_perguntas/florence.png",
+            "pergunta": "Qual é o maior animal terrestre da atualidade?",
+            "alternativas": ["Girafa", "Elefante", "Hipopótamo"],
+            "correta": 1,
+            "imagem": "imagens_perguntas/elefante.png",
         },
         {
-            "pergunta": "Em qual século a enfermagem moderna começou a se profissionalizar?",
-            "alternativas": ["Século XVII", "Século XIX", "Século XXI"],
+            "pergunta": "Qual destes animais é conhecido por dormir pendurado em árvores?",
+            "alternativas": ["Bicho-preguiça", "Canguru", "Leão"],
+            "correta": 0,
+            "imagem": "imagens_perguntas/bicho_preguica.png",
+        },
+        {
+            "pergunta": "Qual ave é famosa por imitar sons e palavras?",
+            "alternativas": ["Coruja", "Águia", "Papagaio"],
+            "correta": 2,
+            "imagem": "imagens_perguntas/papagaio.png",
+        },
+    ],
+
+    "Curiosidades do Espaço": [
+        {
+            "pergunta": "Qual planeta é conhecido como planeta vermelho?",
+            "alternativas": ["Marte", "Vênus", "Saturno"],
+            "correta": 0,
+        },
+        {
+            "pergunta": "Qual estrela fica no centro do Sistema Solar?",
+            "alternativas": ["Sirius", "Sol", "Polaris"],
             "correta": 1,
         },
         {
-            "pergunta": "A escola criada por Florence Nightingale em 1860 funcionava ligada a qual instituição?",
-            "alternativas": ["Universidade", "Exército", "Hospital"],
+            "pergunta": "Como se chama o caminho que um planeta faz ao redor do Sol?",
+            "alternativas": ["Rotação", "Translação", "Órbita"],
             "correta": 2,
-            "imagem": "florence_escola.webp",
         },
     ],
+
 }
