@@ -8,56 +8,56 @@
 
 QUIZZES = {
 
-    "Homo sapiens": [
+    "Scooby-Doo": [
         {
-            "pergunta": "Há aproximadamente quanto tempo surgiu o Homo sapiens?",
-            "alternativas": ["300 mil anos", "30 mil anos", "3 milhões de anos"],
-            "correta": 0,
-        },
-        {
-            "pergunta": "Qual característica está ligada ao sucesso evolutivo do Homo sapiens?",
-            "alternativas": ["Garras fortes", "Cooperação complexa", "Visão noturna"],
+            "pergunta": "Segundo uma teoria de fãs, por que tantos monstros de Scooby-Doo acabam sendo humanos disfarçados?",
+            "alternativas": ["Fenômenos reais", "Crimes planejados", "Experimentos secretos"],
             "correta": 1,
         },
         {
-            "pergunta": "Com qual outro grupo humano o Homo sapiens chegou a cruzar?",
-            "alternativas": ["Australopitecos", "Paranthropus", "Neandertais"],
+            "pergunta": "Uma teoria sombria sobre Scooby-Doo sugere que a Mistério S.A. vive em um mundo marcado por quê?",
+            "alternativas": ["Crise social", "Viagens espaciais", "Magia antiga"],
+            "correta": 0,
+        },
+        {
+            "pergunta": "Em algumas teorias de fãs, o comportamento estranho de Salsicha seria explicado por quê?",
+            "alternativas": ["Poder sobrenatural", "Viagem temporal", "Estado alterado"],
             "correta": 2,
         },
     ],
 
-    "Experimentos Estranhos": [
+    "Pokémon": [
         {
-            "pergunta": "Qual experimento ficou famoso por estudar obediência a ordens de autoridade?",
-            "alternativas": ["Experimento Milgram", "Experimento Pavlov", "Projeto Manhattan"],
+            "pergunta": "Segundo uma famosa teoria de fãs, o que teria acontecido com Ash no início da série?",
+            "alternativas": ["Entrou em coma", "Perdeu a memória", "Virou um Pokémon"],
             "correta": 0,
         },
         {
-            "pergunta": "Qual experimento psicológico simulou uma prisão em uma universidade dos Estados Unidos?",
-            "alternativas": ["Milgram", "Prisão de Stanford", "Pequeno Albert"],
+            "pergunta": "Na teoria do coma de Ash, suas aventuras seriam o quê?",
+            "alternativas": ["Viagens futuras", "Uma imaginação", "Experimentos científicos"],
             "correta": 1,
         },
         {
-            "pergunta": "Qual experimento ficou conhecido por condicionar medo em uma criança chamada Albert?",
-            "alternativas": ["Pavlov", "Stanford", "Pequeno Albert"],
+            "pergunta": "Qual detalhe é usado por fãs para alimentar teorias sobre Ash não envelhecer?",
+            "alternativas": ["Trocar de nome", "Perder batalhas", "Continuar criança"],
             "correta": 2,
         },
     ],
 
-    "Sol": [
+    "Bob Esponja": [
         {
-            "pergunta": "Qual elemento químico é o principal combustível do Sol?",
-            "alternativas": ["Hidrogênio", "Oxigênio", "Carbono"],
+            "pergunta": "Uma teoria popular associa a Fenda do Biquíni a qual acontecimento histórico?",
+            "alternativas": ["Testes nucleares", "Erupções vulcânicas", "Queda de meteoros"],
             "correta": 0,
         },
         {
-            "pergunta": "Quanto tempo aproximadamente a luz do Sol leva para chegar à Terra?",
-            "alternativas": ["8 segundos", "8 minutos", "80 minutos"],
+            "pergunta": "Segundo essa teoria, a radiação explicaria principalmente o quê?",
+            "alternativas": ["Água colorida", "Animais humanizados", "Casas submarinas"],
             "correta": 1,
         },
         {
-            "pergunta": "Em qual camada do Sol ocorre principalmente a fusão nuclear?",
-            "alternativas": ["Fotosfera", "Cromosfera", "Núcleo"],
+            "pergunta": "As teorias nucleares sobre Bob Esponja costumam citar testes realizados em qual região?",
+            "alternativas": ["Mar Mediterrâneo", "Oceano Ártico", "Atol de Bikini"],
             "correta": 2,
         },
     ],
