@@ -1,62 +1,70 @@
 
 QUIZZES = {
-    "Três charadas rápidas": [
-        {"pergunta": "O que tem dentes, mas nunca mastiga?", "alternativas": ["Pente", "Relógio", "Copo"], "correta": 0},
-        {"pergunta": "O que fica mais molhado quanto mais seca?", "alternativas": ["Ventilador", "Toalha", "Guarda-chuva"], "correta": 1},
-        {"pergunta": "O que tem ponteiros, mas não costura?", "alternativas": ["Régua", "Tesoura", "Relógio"], "correta": 2},
+
+    "Eleições 2026: você sabe como votar?": [
+        {"pergunta": "Em que dia será realizado o 1º turno das Eleições 2026?", "alternativas": ["4 de outubro", "11 de outubro", "18 de outubro"], "correta": 0},
+        {"pergunta": "Qual é o horário oficial de votação nas Eleições 2026?", "alternativas": ["7h às 16h", "8h às 17h", "9h às 18h"], "correta": 1},
+        {"pergunta": "Quantos cargos diferentes serão escolhidos no 1º turno?", "alternativas": ["Quatro", "Cinco", "Seis"], "correta": 2},
     ],
 
-    "Você conhece as capitais?": [
-        {"pergunta": "Qual é a capital do Ceará?", "alternativas": ["Fortaleza", "Natal", "Recife"], "correta": 0},
-        {"pergunta": "Qual é a capital da Bahia?", "alternativas": ["Aracaju", "Salvador", "Maceió"], "correta": 1},
-        {"pergunta": "Qual é a capital do Pará?", "alternativas": ["Manaus", "Macapá", "Belém"], "correta": 2},
+    "Confusões das Eleições 2026": [
+        {"pergunta": "Qual tecnologia virou alvo de regras específicas do TSE por causa de conteúdos manipulados nas campanhas?", "alternativas": ["Inteligência artificial", "Bluetooth", "GPS"], "correta": 0},
+        {"pergunta": "Como é chamado o conteúdo manipulado por inteligência artificial para parecer uma pessoa real falando ou fazendo algo?", "alternativas": ["Streaming", "Deepfake", "Podcast"], "correta": 1},
+        {"pergunta": "Que tipo de disputa pode chegar à Justiça Eleitoral quando uma campanha questiona uma propaganda?", "alternativas": ["Ação trabalhista", "Ação de trânsito", "Representação eleitoral"], "correta": 2},
     ],
 
-    "Palavras que confundem": [
-        {"pergunta": "Como começa uma pergunta direta: Por que você saiu?", "alternativas": ["Por que, separado", "Porque, junto", "Porquê, com acento"], "correta": 0},
-        {"pergunta": "Qual frase está escrita corretamente?", "alternativas": ["Agente vai ao cinema", "A gente vai ao cinema", "A gente vamos ao cinema"], "correta": 1},
-        {"pergunta": "Qual é a grafia correta da expressão?", "alternativas": ["Derrepente", "Derepente", "De repente"], "correta": 2},
+    "Você cairia nessa pegadinha?": [
+        {"pergunta": "Se você tem 10 maçãs e tira 3, com quantas fica?", "alternativas": ["7", "8", "6"], "correta": 0},
+        {"pergunta": "Qual palavra está escrita corretamente?", "alternativas": ["Excessão", "Exceção", "Eceção"], "correta": 1},
+        {"pergunta": "Um avião cai exatamente na fronteira entre dois países. Onde enterram os sobreviventes?", "alternativas": ["No primeiro país", "No segundo país", "Não enterram sobreviventes"], "correta": 2},
     ],
 
-    "História em três perguntas": [
-        {"pergunta": "Quem foi a primeira pessoa a pisar na Lua?", "alternativas": ["Neil Armstrong", "Yuri Gagarin", "Buzz Aldrin"], "correta": 0},
-        {"pergunta": "Onde foi construído o Coliseu?", "alternativas": ["Atenas", "Roma", "Paris"], "correta": 1},
-        {"pergunta": "Qual povo antigo desenvolveu a escrita cuneiforme?", "alternativas": ["Romanos", "Incas", "Sumérios"], "correta": 2},
+    "Você lembra dos anos 2000?": [
+        {"pergunta": "Qual aparelho era muito usado para ouvir músicas em arquivos MP3?", "alternativas": ["MP3 player", "Fax", "Pager"], "correta": 0},
+        {"pergunta": "Qual rede social ficou muito popular no Brasil nos anos 2000?", "alternativas": ["TikTok", "Orkut", "Threads"], "correta": 1},
+        {"pergunta": "Qual videogame tinha o famoso jogo GTA San Andreas?", "alternativas": ["Nintendo DS", "Game Boy", "PlayStation 2"], "correta": 2},
     ],
 
-    "Curiosidades da cozinha": [
-        {"pergunta": "Qual ingrediente faz a massa de pão crescer durante a fermentação?", "alternativas": ["Fermento biológico", "Sal", "Óleo"], "correta": 0},
-        {"pergunta": "Qual utensílio mede a temperatura dos alimentos?", "alternativas": ["Peneira", "Termômetro culinário", "Balança"], "correta": 1},
-        {"pergunta": "Qual farinha é tradicionalmente usada para preparar pão francês?", "alternativas": ["Farinha de arroz", "Farinha de mandioca", "Farinha de trigo"], "correta": 2},
+    "Só os atentos acertam": [
+        {"pergunta": "Qual destes animais não possui quatro patas?", "alternativas": ["Cobra", "Cachorro", "Gato"], "correta": 0},
+        {"pergunta": "Qual destes países não fica na América do Sul?", "alternativas": ["Brasil", "México", "Argentina"], "correta": 1},
+        {"pergunta": "Qual destes objetos normalmente possui ponteiros?", "alternativas": ["Copo", "Prato", "Relógio"], "correta": 2},
     ],
 
-    "Desafio dos números": [
-        {"pergunta": "Qual destes números é primo?", "alternativas": ["Sete", "Nove", "Quinze"], "correta": 0},
-        {"pergunta": "Qual fração representa metade?", "alternativas": ["Um terço", "Um meio", "Um quarto"], "correta": 1},
-        {"pergunta": "Na sequência 3, 6, 9, qual é o próximo número?", "alternativas": ["Dez", "Onze", "Doze"], "correta": 2},
+    "Mistérios do mundo": [
+        {"pergunta": "Qual construção antiga fica no Egito e possui formato triangular?", "alternativas": ["Pirâmide", "Coliseu", "Stonehenge"], "correta": 0},
+        {"pergunta": "Qual cidade é conhecida como a 'Cidade Luz'?", "alternativas": ["Londres", "Paris", "Roma"], "correta": 1},
+        {"pergunta": "Qual monumento pré-histórico fica na Inglaterra?", "alternativas": ["Machu Picchu", "Taj Mahal", "Stonehenge"], "correta": 2},
     ],
 
-    "Animais recordistas": [
-        {"pergunta": "Qual é a maior ave viva do mundo?", "alternativas": ["Avestruz", "Águia", "Tucano"], "correta": 0},
-        {"pergunta": "Qual é o animal terrestre mais veloz em corridas curtas?", "alternativas": ["Leão", "Guepardo", "Cavalo"], "correta": 1},
-        {"pergunta": "Qual é o maior animal vivo conhecido?", "alternativas": ["Elefante-africano", "Tubarão-branco", "Baleia-azul"], "correta": 2},
+    "Comidas que têm histórias curiosas": [
+        {"pergunta": "Qual fruta é usada tradicionalmente para fazer guacamole?", "alternativas": ["Abacate", "Maçã", "Melancia"], "correta": 0},
+        {"pergunta": "Qual alimento é produzido a partir do leite e pode ser maturado?", "alternativas": ["Arroz", "Queijo", "Feijão"], "correta": 1},
+        {"pergunta": "Qual destes é tradicionalmente associado à culinária japonesa?", "alternativas": ["Taco", "Paella", "Sushi"], "correta": 2},
     ],
 
-    "Cinema e desenhos em 3 perguntas": [
-        {"pergunta": "Mufasa é pai de qual personagem?", "alternativas": ["Simba", "Aladdin", "Pumba"], "correta": 0},
-        {"pergunta": "Em qual animação aparece o boneco de neve Olaf?", "alternativas": ["Moana", "Frozen", "Toy Story"], "correta": 1},
-        {"pergunta": "Qual personagem é um ogro verde?", "alternativas": ["Woody", "Hulk", "Shrek"], "correta": 2},
+    "Descubra o país pela pista": [
+        {"pergunta": "O samba e o Carnaval são fortemente associados a qual país?", "alternativas": ["Brasil", "Canadá", "Japão"], "correta": 0},
+        {"pergunta": "A Torre Eiffel fica em qual país?", "alternativas": ["Itália", "França", "Espanha"], "correta": 1},
+        {"pergunta": "As pirâmides de Gizé ficam em qual país?", "alternativas": ["Peru", "Grécia", "Egito"], "correta": 2},
     ],
 
-    "Seu celular em três perguntas": [
-        {"pergunta": "Qual é a função principal do modo avião?", "alternativas": ["Desativar conexões sem fio", "Aumentar o brilho", "Apagar aplicativos"], "correta": 0},
-        {"pergunta": "Qual componente do celular permite tirar fotografias?", "alternativas": ["Microfone", "Câmera", "Alto-falante"], "correta": 1},
-        {"pergunta": "Para que serve o GPS do celular?", "alternativas": ["Carregar a bateria", "Aumentar o volume", "Ajudar a determinar localização"], "correta": 2},
+    "Animais que parecem inventados": [
+        {"pergunta": "Qual animal possui um bico parecido com o de um pato e põe ovos?", "alternativas": ["Ornitorrinco", "Canguru", "Lontra"], "correta": 0},
+        {"pergunta": "Qual animal possui três corações?", "alternativas": ["Tartaruga", "Polvo", "Crocodilo"], "correta": 1},
+        {"pergunta": "Qual animal tem uma língua comprida e pegajosa para capturar insetos?", "alternativas": ["Coala", "Panda", "Tamanduá"], "correta": 2},
     ],
 
-    "Pegadinhas sobre o tempo": [
-        {"pergunta": "Quantos segundos há em um minuto?", "alternativas": ["Sessenta", "Cinquenta", "Cem"], "correta": 0},
-        {"pergunta": "Qual mês vem depois de setembro?", "alternativas": ["Agosto", "Outubro", "Dezembro"], "correta": 1},
-        {"pergunta": "Quantos dias tem uma semana?", "alternativas": ["Cinco", "Seis", "Sete"], "correta": 2},
+    "Desafio relâmpago de conhecimentos": [
+        {"pergunta": "Qual é o maior planeta do Sistema Solar?", "alternativas": ["Júpiter", "Marte", "Mercúrio"], "correta": 0},
+        {"pergunta": "Qual é o maior órgão do corpo humano?", "alternativas": ["Fígado", "Pele", "Coração"], "correta": 1},
+        {"pergunta": "Qual é o metal cujo símbolo químico é Au?", "alternativas": ["Prata", "Ferro", "Ouro"], "correta": 2},
     ],
+
+    "Coisas que quase todo mundo já fez": [
+        {"pergunta": "Qual destes objetos é usado para apagar o que foi escrito a lápis?", "alternativas": ["Borracha", "Colher", "Pente"], "correta": 0},
+        {"pergunta": "Qual aplicativo é tradicionalmente usado para enviar mensagens instantâneas?", "alternativas": ["Calculadora", "WhatsApp", "Galeria"], "correta": 1},
+        {"pergunta": "Qual objeto normalmente usamos para abrir uma porta?", "alternativas": ["Garfo", "Tesoura", "Chave"], "correta": 2},
+    ],
+
 }
