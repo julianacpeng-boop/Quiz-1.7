@@ -1,70 +1,69 @@
-
 QUIZZES = {
 
-    "Eleições 2026: você sabe como votar?": [
-        {"pergunta": "Em que dia será realizado o 1º turno das Eleições 2026?", "alternativas": ["4 de outubro", "11 de outubro", "18 de outubro"], "correta": 0},
-        {"pergunta": "Qual é o horário oficial de votação nas Eleições 2026?", "alternativas": ["7h às 16h", "8h às 17h", "9h às 18h"], "correta": 1},
-        {"pergunta": "Quantos cargos diferentes serão escolhidos no 1º turno?", "alternativas": ["Quatro", "Cinco", "Seis"], "correta": 2},
+    "A novela que marcou época": [
+        {"pergunta": "Quem interpretou Carminha em Avenida Brasil?", "alternativas": ["Adriana Esteves", "Glória Pires", "Débora Falabella"], "correta": 0},
+        {"pergunta": "Juma Marruá é personagem de qual novela?", "alternativas": ["Pantanal", "O Rei do Gado", "Renascer"], "correta": 0},
+        {"pergunta": "Nazaré Tedesco é personagem de qual novela?", "alternativas": ["Senhora do Destino", "Avenida Brasil", "Mulheres de Areia"], "correta": 0},
     ],
 
-    "Confusões das Eleições 2026": [
-        {"pergunta": "Qual tecnologia virou alvo de regras específicas do TSE por causa de conteúdos manipulados nas campanhas?", "alternativas": ["Inteligência artificial", "Bluetooth", "GPS"], "correta": 0},
-        {"pergunta": "Como é chamado o conteúdo manipulado por inteligência artificial para parecer uma pessoa real falando ou fazendo algo?", "alternativas": ["Streaming", "Deepfake", "Podcast"], "correta": 1},
-        {"pergunta": "Que tipo de disputa pode chegar à Justiça Eleitoral quando uma campanha questiona uma propaganda?", "alternativas": ["Ação trabalhista", "Ação de trânsito", "Representação eleitoral"], "correta": 2},
+    "Desafio de lógica: pense antes de responder": [
+        {"pergunta": "Se você ultrapassa a pessoa que está em segundo lugar numa corrida, em que posição fica?", "alternativas": ["Em primeiro", "Em segundo", "Em terceiro"], "correta": 1},
+        {"pergunta": "Cinco máquinas fazem cinco peças em cinco minutos. Quanto tempo 100 máquinas levam para fazer 100 peças?", "alternativas": ["5 minutos", "20 minutos", "100 minutos"], "correta": 0},
+        {"pergunta": "Dois pais e dois filhos sentam à mesa, mas são apenas três pessoas. Como isso é possível?", "alternativas": ["São avô, pai e filho", "Um deles não come", "Há um filho imaginário"], "correta": 0},
     ],
 
-    "Você cairia nessa pegadinha?": [
-        {"pergunta": "Se você tem 10 maçãs e tira 3, com quantas fica?", "alternativas": ["7", "8", "6"], "correta": 0},
+    "Português sem tropeço": [
         {"pergunta": "Qual palavra está escrita corretamente?", "alternativas": ["Excessão", "Exceção", "Eceção"], "correta": 1},
-        {"pergunta": "Um avião cai exatamente na fronteira entre dois países. Onde enterram os sobreviventes?", "alternativas": ["No primeiro país", "No segundo país", "Não enterram sobreviventes"], "correta": 2},
+        {"pergunta": "Qual é o plural de cidadão?", "alternativas": ["Cidadões", "Cidadães", "Cidadãos"], "correta": 2},
+        {"pergunta": "Na frase ‘Quero mais café, mas já está tarde’, qual palavra indica oposição?", "alternativas": ["Quero", "Mais", "Mas"], "correta": 2},
     ],
 
-    "Você lembra dos anos 2000?": [
-        {"pergunta": "Qual aparelho era muito usado para ouvir músicas em arquivos MP3?", "alternativas": ["MP3 player", "Fax", "Pager"], "correta": 0},
-        {"pergunta": "Qual rede social ficou muito popular no Brasil nos anos 2000?", "alternativas": ["TikTok", "Orkut", "Threads"], "correta": 1},
-        {"pergunta": "Qual videogame tinha o famoso jogo GTA San Andreas?", "alternativas": ["Nintendo DS", "Game Boy", "PlayStation 2"], "correta": 2},
-    ],
-
-    "Só os atentos acertam": [
-        {"pergunta": "Qual destes animais não possui quatro patas?", "alternativas": ["Cobra", "Cachorro", "Gato"], "correta": 0},
-        {"pergunta": "Qual destes países não fica na América do Sul?", "alternativas": ["Brasil", "México", "Argentina"], "correta": 1},
-        {"pergunta": "Qual destes objetos normalmente possui ponteiros?", "alternativas": ["Copo", "Prato", "Relógio"], "correta": 2},
-    ],
-
-    "Mistérios do mundo": [
-        {"pergunta": "Qual construção antiga fica no Egito e possui formato triangular?", "alternativas": ["Pirâmide", "Coliseu", "Stonehenge"], "correta": 0},
-        {"pergunta": "Qual cidade é conhecida como a 'Cidade Luz'?", "alternativas": ["Londres", "Paris", "Roma"], "correta": 1},
-        {"pergunta": "Qual monumento pré-histórico fica na Inglaterra?", "alternativas": ["Machu Picchu", "Taj Mahal", "Stonehenge"], "correta": 2},
-    ],
-
-    "Comidas que têm histórias curiosas": [
-        {"pergunta": "Qual fruta é usada tradicionalmente para fazer guacamole?", "alternativas": ["Abacate", "Maçã", "Melancia"], "correta": 0},
-        {"pergunta": "Qual alimento é produzido a partir do leite e pode ser maturado?", "alternativas": ["Arroz", "Queijo", "Feijão"], "correta": 1},
-        {"pergunta": "Qual destes é tradicionalmente associado à culinária japonesa?", "alternativas": ["Taco", "Paella", "Sushi"], "correta": 2},
-    ],
-
-    "Descubra o país pela pista": [
-        {"pergunta": "O samba e o Carnaval são fortemente associados a qual país?", "alternativas": ["Brasil", "Canadá", "Japão"], "correta": 0},
-        {"pergunta": "A Torre Eiffel fica em qual país?", "alternativas": ["Itália", "França", "Espanha"], "correta": 1},
-        {"pergunta": "As pirâmides de Gizé ficam em qual país?", "alternativas": ["Peru", "Grécia", "Egito"], "correta": 2},
+    "Curiosidades do Brasil": [
+        {"pergunta": "Qual cidade é conhecida como Cidade Maravilhosa?", "alternativas": ["Rio de Janeiro", "Salvador", "Recife"], "correta": 0},
+        {"pergunta": "Em qual estado fica a cidade histórica de Ouro Preto?", "alternativas": ["Bahia", "Minas Gerais", "Goiás"], "correta": 1},
+        {"pergunta": "O frevo é uma manifestação cultural tradicional de qual estado?", "alternativas": ["Amazonas", "Paraná", "Pernambuco"], "correta": 2},
     ],
 
     "Animais que parecem inventados": [
-        {"pergunta": "Qual animal possui um bico parecido com o de um pato e põe ovos?", "alternativas": ["Ornitorrinco", "Canguru", "Lontra"], "correta": 0},
-        {"pergunta": "Qual animal possui três corações?", "alternativas": ["Tartaruga", "Polvo", "Crocodilo"], "correta": 1},
-        {"pergunta": "Qual animal tem uma língua comprida e pegajosa para capturar insetos?", "alternativas": ["Coala", "Panda", "Tamanduá"], "correta": 2},
+        {"pergunta": "Qual animal possui três corações?", "alternativas": ["Polvo", "Tartaruga", "Crocodilo"], "correta": 0},
+        {"pergunta": "Qual mamífero põe ovos?", "alternativas": ["Canguru", "Ornitorrinco", "Lontra"], "correta": 1},
+        {"pergunta": "Qual ave consegue voar para trás?", "alternativas": ["Pinguim", "Avestruz", "Beija-flor"], "correta": 2},
     ],
 
-    "Desafio relâmpago de conhecimentos": [
+    "Comidas famosas pelo mundo": [
+        {"pergunta": "Qual é o principal ingrediente do guacamole?", "alternativas": ["Abacate", "Maçã", "Melancia"], "correta": 0},
+        {"pergunta": "O sushi é tradicionalmente associado à culinária de qual país?", "alternativas": ["Itália", "Japão", "México"], "correta": 1},
+        {"pergunta": "A pizza Margherita surgiu em qual cidade italiana?", "alternativas": ["Roma", "Milão", "Nápoles"], "correta": 2},
+    ],
+
+    "Você viveu os anos 2000?": [
+        {"pergunta": "Qual rede social ficou muito popular no Brasil nos anos 2000?", "alternativas": ["Orkut", "TikTok", "Threads"], "correta": 0},
+        {"pergunta": "Qual aparelho portátil era usado para ouvir músicas em arquivos MP3?", "alternativas": ["Pager", "MP3 player", "Fax"], "correta": 1},
+        {"pergunta": "GTA San Andreas ficou muito conhecido no Brasil em qual videogame?", "alternativas": ["Nintendo DS", "Game Boy", "PlayStation 2"], "correta": 2},
+    ],
+
+    "Ciência do dia a dia": [
         {"pergunta": "Qual é o maior planeta do Sistema Solar?", "alternativas": ["Júpiter", "Marte", "Mercúrio"], "correta": 0},
         {"pergunta": "Qual é o maior órgão do corpo humano?", "alternativas": ["Fígado", "Pele", "Coração"], "correta": 1},
-        {"pergunta": "Qual é o metal cujo símbolo químico é Au?", "alternativas": ["Prata", "Ferro", "Ouro"], "correta": 2},
+        {"pergunta": "Ao nível do mar, a água ferve aproximadamente a quantos graus Celsius?", "alternativas": ["50 °C", "80 °C", "100 °C"], "correta": 2},
     ],
 
-    "Coisas que quase todo mundo já fez": [
-        {"pergunta": "Qual destes objetos é usado para apagar o que foi escrito a lápis?", "alternativas": ["Borracha", "Colher", "Pente"], "correta": 0},
-        {"pergunta": "Qual aplicativo é tradicionalmente usado para enviar mensagens instantâneas?", "alternativas": ["Calculadora", "WhatsApp", "Galeria"], "correta": 1},
-        {"pergunta": "Qual objeto normalmente usamos para abrir uma porta?", "alternativas": ["Garfo", "Tesoura", "Chave"], "correta": 2},
+    "Mistérios e fatos da história": [
+        {"pergunta": "As pirâmides de Gizé ficam em qual país?", "alternativas": ["Egito", "Peru", "Grécia"], "correta": 0},
+        {"pergunta": "Qual monumento pré-histórico fica na Inglaterra?", "alternativas": ["Machu Picchu", "Stonehenge", "Taj Mahal"], "correta": 1},
+        {"pergunta": "Quem foi o primeiro ser humano a pisar na Lua?", "alternativas": ["Yuri Gagarin", "Buzz Aldrin", "Neil Armstrong"], "correta": 2},
+    ],
+
+    "Cinema e animação: você reconhece?": [
+        {"pergunta": "Em qual escola de magia Harry Potter estuda?", "alternativas": ["Hogwarts", "Nárnia", "Nevermore"], "correta": 0},
+        {"pergunta": "Qual personagem canta ‘Livre Estou’ em Frozen?", "alternativas": ["Anna", "Elsa", "Olaf"], "correta": 1},
+        {"pergunta": "Shrek é de que tipo de criatura?", "alternativas": ["Dragão", "Gigante", "Ogro"], "correta": 2},
+    ],
+
+    "Coisas do cotidiano que todo mundo conhece": [
+        {"pergunta": "Qual objeto usamos para apagar o que foi escrito a lápis?", "alternativas": ["Borracha", "Colher", "Pente"], "correta": 0},
+        {"pergunta": "Qual destes objetos costuma ter ponteiros?", "alternativas": ["Copo", "Relógio", "Prato"], "correta": 1},
+        {"pergunta": "Qual objeto normalmente usamos para abrir uma porta trancada?", "alternativas": ["Garfo", "Tesoura", "Chave"], "correta": 2},
     ],
 
 }
